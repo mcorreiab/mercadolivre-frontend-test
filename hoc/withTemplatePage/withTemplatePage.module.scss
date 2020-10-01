@@ -1,0 +1,20 @@
+.Header {
+    background-color: #fff159;
+}
+
+.PageContent {
+    div {
+        width: 90%;
+        max-width: 900px;
+    }
+
+    @media only screen and (min-width: 500px) {
+        div {
+            width: 70%;
+        }
+    }
+}
+
+.Main {
+    background-color: #fff;
+}
