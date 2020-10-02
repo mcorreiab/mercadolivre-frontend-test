@@ -9,7 +9,7 @@ const searchBar = () =>
             <figure className={styles.SearchBar__bar__logo}>
                 <img src="/mercadolivre-logo.png" alt="Mercado Livre logo"/>
             </figure>
-            <input className={styles.SearchBar__bar__text} type="text" placeholder="Digite aqui o que deseja buscar" />
+            <input className={styles.SearchBar__bar__text} type="text" placeholder="Digite aqui sua busca" />
             <button className={styles.SearchBar__bar__button}><FontAwesomeIcon icon={faSearch} /></button>
         </form>
     </div>
