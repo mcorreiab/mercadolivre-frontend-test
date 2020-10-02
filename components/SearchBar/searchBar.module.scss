@@ -24,6 +24,10 @@
             border: 0 rgba(0,0,0,.2);
             padding: 10px;
             border-radius: 2px;
+
+            &::placeholder {
+                color: #d8d8d8;
+            }
         }
 
         &__button {
