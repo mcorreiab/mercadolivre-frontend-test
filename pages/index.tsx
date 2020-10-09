@@ -1,8 +1,9 @@
-import MainPage from '../containers/MainPage';
-import SearchBar from '../containers/MainPage';
+import React from 'react';
+import TemplatePage from '../hoc/TemplatePage';
+import ProductList from '../components/ProductList';
 
 export default function Home() {
   return (
-    <MainPage />
+    <TemplatePage />
   )
 }
