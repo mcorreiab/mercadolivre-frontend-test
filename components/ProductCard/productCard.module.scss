@@ -9,6 +9,13 @@
         width: 100%;
         height: auto;
         max-width: 125px;
+        margin-right: 5%;
+    }
+
+    @media only screen and (min-width: 768px) {
+        &__image {
+            margin-right: 2%;
+        }
     }
 
     &__price {
