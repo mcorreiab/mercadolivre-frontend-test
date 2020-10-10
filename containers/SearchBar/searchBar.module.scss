@@ -1,6 +1,5 @@
 .SearchBar {
     padding: 1em 0;
-    margin: 0 auto;
 
     &__bar {
         display: flex;
@@ -16,6 +15,7 @@
             img {
                 width: 100%;
                 height: auto;
+                cursor: pointer;
             }
         }
 
@@ -24,6 +24,7 @@
             border: 0 rgba(0,0,0,.2);
             padding: 10px;
             border-radius: 2px;
+            width: 100%;
 
             &::placeholder {
                 color: #d8d8d8;
@@ -32,6 +33,7 @@
 
         &__button {
             flex: 0 1 10%;
+            cursor: pointer;
         }
 
         @media only screen and (min-width: 1024px) {
