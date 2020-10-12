@@ -1,6 +1,6 @@
 import React, { FunctionComponent } from 'react';
 import ProductCard, { ProductCardProps } from '../ProductCard';
-import styles from './productList.module.scss';
+import * as styled from './styled';
 
 export interface ProductInformation {
     id: string;
@@ -29,9 +29,9 @@ const ProductList: FunctionComponent<ProductListProps> = ({ products }: ProductL
     });
 
     return (
-        <div className={styles.ProductList}>
+        <styled.Div>
             {productCards}
-        </div>
+        </styled.Div>
     );
 }
 

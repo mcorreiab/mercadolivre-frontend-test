@@ -1,6 +1,6 @@
 import React, { FunctionComponent } from 'react';
-import styles from './productCard.module.scss';
 import getSymbolFromCurrency from 'currency-symbol-map';
+import * as styled from './styled';
 
 export interface ProductCardProps {
     thumbnail: string;
@@ -13,21 +13,17 @@ export interface ProductCardProps {
 const productCard: FunctionComponent<ProductCardProps> = ({ thumbnail, title, price,
     cityName, currencyId }: ProductCardProps) => {
     const symbol = getSymbolFromCurrency(currencyId);
-    const locationCardClasses = [styles.ProductCard__location,
-    styles.ProductCard__location__card].join(' ');
-    const locationTextClasses = [styles.ProductCard__location,
-    styles.ProductCard__location__text].join(' ');
 
     return (
-        <div className={styles.ProductCard}>
-            <img className={styles.ProductCard__image} src={thumbnail}></img>
+        <styled.Div>
+            <styled.Img src={thumbnail} />
             <div>
-                <p className={locationCardClasses}>{cityName}</p>
+                <styled.ParagraphCard>{cityName}</styled.ParagraphCard>
                 <p>{title}</p>
-                <p className={styles.ProductCard__price}>{symbol}{price.toFixed(2)}</p>
+                <styled.PriceParagraph>{symbol}{price.toFixed(2)}</styled.PriceParagraph>
             </div>
-            <p className={locationTextClasses}>{cityName}</p>
-        </div>
+            <styled.ParagraphText>{cityName}</styled.ParagraphText>
+        </styled.Div>
     );
 };
 
