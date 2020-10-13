@@ -1,3 +1,3 @@
 export class AddressResponse {
-    city_name: String
+    city_name: string
 }

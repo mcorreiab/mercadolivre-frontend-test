@@ -1,22 +1,17 @@
-import React, { Fragment } from 'react';
+import React, { ReactNode } from 'react';
 import SearchBar from '../../containers/SearchBar';
-import styles from './TemplatePage.module.scss';
+import * as styled from './styled';
 
-
-const templatePage = (props: { children?: React.ReactNode; }) =>
+const templatePage = (props: { children?: ReactNode; }) =>
     (
-        <Fragment>
-            <header className={styles.Header}>
-                <div className={styles.PageContent}>
-                    <SearchBar />
-                </div>
-            </header>
-            <main className={styles.Main}>
-                <div className={styles.PageContent}>
-                    {props.children}
-                </div>
-            </main>
-        </Fragment>
+        <styled.Div>
+            <styled.Header>
+                <SearchBar />
+            </styled.Header>
+            <styled.Main>
+                {props.children}
+            </styled.Main>
+        </styled.Div>
     )
 
 export default templatePage;
