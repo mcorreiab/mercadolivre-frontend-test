@@ -16,13 +16,12 @@ const productCard: FunctionComponent<ProductCardProps> = ({ thumbnail, title, pr
 
     return (
         <styled.Div>
-            <styled.Img src={thumbnail} />
+            <styled.Img src={thumbnail} alt={`${title} image`} />
             <div>
-                <styled.ParagraphCard>{cityName}</styled.ParagraphCard>
+                <styled.CityParagraph>{cityName}</styled.CityParagraph>
                 <p>{title}</p>
-                <styled.PriceParagraph>{symbol}{price.toFixed(2)}</styled.PriceParagraph>
+                <styled.PriceParagraph>{symbol} {price.toFixed(2)}</styled.PriceParagraph>
             </div>
-            <styled.ParagraphText>{cityName}</styled.ParagraphText>
         </styled.Div>
     );
 };

@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "debug": "NODE_OPTIONS='--inspect' next dev"
+    "debug": "NODE_OPTIONS='--inspect' next dev",
+    "test": "jest"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.32",

@@ -9,11 +9,8 @@ export interface State {
 };
 
 class SearchBar extends Component<{}, State> {
-    constructor() {
-        super(null);
-        this.state = {
-            searchQuery: ""
-        };
+    state = {
+        searchQuery: ""
     }
 
     render() {
@@ -31,8 +28,8 @@ class SearchBar extends Component<{}, State> {
                         onChange={this.handleChange.bind(this)}
                         value={this.state.searchQuery}
                     />
-                    <Link href={`/${this.state.searchQuery}`} >
-                        <styled.Button>
+                    <Link href={`/${this.state.searchQuery}`} data-testid="search button">
+                        <styled.Button onClick={null}>
                             <FontAwesomeIcon icon={faSearch} />
                         </styled.Button>
                     </Link>

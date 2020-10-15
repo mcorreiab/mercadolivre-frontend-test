@@ -2,30 +2,8 @@ import React from 'react';
 import TemplatePage from '../hoc/TemplatePage';
 import ProductList, { ProductListProps, ProductInformation } from '../components/ProductList';
 import { getItems } from '../api/items';
-import { ItemResponse } from '../api/items/model';
 
-interface ListingProps {
-    items: ItemResponse
-}
-
-export default function Listing({ items }: ListingProps) {
-    const productInformation = items.results.map(item => {
-        const props: ProductInformation = {
-            id: item.id,
-            thumbnail: item.thumbnail,
-            cityName: item.address.city_name,
-            currencyId: item.currency_id,
-            price: item.price,
-            title: item.title
-        };
-
-        return props;
-    });
-
-    const productListProps: ProductListProps = {
-        products: productInformation
-    };
-
+export default function Listing(productListProps: ProductListProps) {
     return (
         <TemplatePage>
             <ProductList {...productListProps} />
@@ -44,8 +22,21 @@ interface Context {
 export async function getServerSideProps({ params }: Context) {
     const response = await getItems(params.searchQuery);
 
-    const props: ListingProps = {
-        items: response
+    const productInformation = response.results.map(item => {
+        const props: ProductInformation = {
+            id: item.id,
+            thumbnail: item.thumbnail,
+            cityName: item.address.city_name,
+            currencyId: item.currency_id,
+            price: item.price,
+            title: item.title
+        };
+
+        return props;
+    });
+
+    const props: ProductListProps = {
+        products: productInformation
     };
 
     return { props };
