@@ -7,7 +7,9 @@
     "build": "next build",
     "start": "next start",
     "debug": "NODE_OPTIONS='--inspect' next dev",
-    "test": "jest"
+    "test": "jest",
+    "linter": "eslint --ext **/*.ts --ext **/*.tsx",
+    "prettier": "prettier --write ."
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.32",
@@ -32,7 +34,17 @@
   "devDependencies": {
     "@testing-library/react": "^11.0.4",
     "@types/jest": "^26.0.14",
+    "@typescript-eslint/eslint-plugin": "^4.4.1",
+    "@typescript-eslint/parser": "^4.4.1",
     "babel-jest": "^26.5.2",
-    "jest": "^26.5.2"
+    "eslint": "^7.11.0",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-config-prettier": "^6.13.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsx-a11y": "^6.3.1",
+    "eslint-plugin-react": "^7.21.4",
+    "eslint-plugin-react-hooks": "^4.1.2",
+    "jest": "^26.5.2",
+    "prettier": "2.1.2"
   }
 }

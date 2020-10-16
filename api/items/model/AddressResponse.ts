@@ -1,3 +1,3 @@
 export class AddressResponse {
-    city_name: string
+  city_name: string;
 }

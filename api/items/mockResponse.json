@@ -1,1617 +1,1605 @@
 {
-    "data": {
+  "data": {
+    "site_id": "MLB",
+    "query": "ps4",
+    "paging": {
+      "total": 3250,
+      "primary_results": 1012,
+      "offset": 0,
+      "limit": 4
+    },
+    "results": [
+      {
+        "id": "MLB1512055832",
         "site_id": "MLB",
-        "query": "ps4",
-        "paging": {
-            "total": 3250,
-            "primary_results": 1012,
-            "offset": 0,
-            "limit": 4
+        "title": "Playstation Vr Mega Pack Nacional Sony Ps4 + 5 Jogos Oferta",
+        "seller": {
+          "id": 236242616,
+          "permalink": "http://perfil.mercadolivre.com.br/ACCESSORIES+WORLD",
+          "registration_date": "2016-11-29T20:33:35.000-04:00",
+          "car_dealer": false,
+          "real_estate_agency": false,
+          "tags": [
+            "normal",
+            "credits_profile",
+            "messages_as_seller",
+            "messages_as_buyer"
+          ],
+          "seller_reputation": {
+            "transactions": {
+              "total": 20917,
+              "canceled": 571,
+              "period": "historic",
+              "ratings": {
+                "negative": 0.02,
+                "positive": 0.96,
+                "neutral": 0.02
+              },
+              "completed": 20346
+            },
+            "power_seller_status": "platinum",
+            "metrics": {
+              "claims": {
+                "rate": 0.0148,
+                "value": 14,
+                "period": "3 months"
+              },
+              "delayed_handling_time": {
+                "rate": 0.0033,
+                "value": 3,
+                "period": "3 months"
+              },
+              "sales": {
+                "period": "3 months",
+                "completed": 888
+              },
+              "cancellations": {
+                "rate": 0,
+                "value": 0,
+                "period": "3 months"
+              }
+            },
+            "level_id": "5_green"
+          }
         },
-        "results": [
+        "price": 2449,
+        "prices": {
+          "id": "MLB1512055832",
+          "prices": [
             {
-                "id": "MLB1512055832",
-                "site_id": "MLB",
-                "title": "Playstation Vr Mega Pack Nacional Sony Ps4 + 5 Jogos Oferta",
-                "seller": {
-                    "id": 236242616,
-                    "permalink": "http://perfil.mercadolivre.com.br/ACCESSORIES+WORLD",
-                    "registration_date": "2016-11-29T20:33:35.000-04:00",
-                    "car_dealer": false,
-                    "real_estate_agency": false,
-                    "tags": [
-                        "normal",
-                        "credits_profile",
-                        "messages_as_seller",
-                        "messages_as_buyer"
-                    ],
-                    "seller_reputation": {
-                        "transactions": {
-                            "total": 20917,
-                            "canceled": 571,
-                            "period": "historic",
-                            "ratings": {
-                                "negative": 0.02,
-                                "positive": 0.96,
-                                "neutral": 0.02
-                            },
-                            "completed": 20346
-                        },
-                        "power_seller_status": "platinum",
-                        "metrics": {
-                            "claims": {
-                                "rate": 0.0148,
-                                "value": 14,
-                                "period": "3 months"
-                            },
-                            "delayed_handling_time": {
-                                "rate": 0.0033,
-                                "value": 3,
-                                "period": "3 months"
-                            },
-                            "sales": {
-                                "period": "3 months",
-                                "completed": 888
-                            },
-                            "cancellations": {
-                                "rate": 0,
-                                "value": 0,
-                                "period": "3 months"
-                            }
-                        },
-                        "level_id": "5_green"
-                    }
-                },
-                "price": 2449,
-                "prices": {
-                    "id": "MLB1512055832",
-                    "prices": [
-                        {
-                            "id": "28d438e2-84ae-402a-af09-200e50935209",
-                            "type": "standard",
-                            "conditions": {
-                                "context_restrictions": [],
-                                "start_time": null,
-                                "end_time": null,
-                                "eligible": true
-                            },
-                            "amount": 2449,
-                            "regular_amount": null,
-                            "currency_id": "BRL",
-                            "exchange_rate_context": "DEFAULT",
-                            "metadata": {},
-                            "last_updated": "2020-10-03T13:01:46Z"
-                        }
-                    ],
-                    "presentation": {
-                        "display_currency": "BRL"
-                    },
-                    "payment_method_prices": []
-                },
-                "sale_price": null,
-                "currency_id": "BRL",
-                "available_quantity": 1,
-                "sold_quantity": 3,
-                "buying_mode": "buy_it_now",
-                "listing_type_id": "gold_special",
-                "stop_time": "2040-04-27T04:00:00.000Z",
-                "condition": "new",
-                "permalink": "https://produto.mercadolivre.com.br/MLB-1512055832-playstation-vr-mega-pack-nacional-sony-ps4-5-jogos-oferta-_JM",
-                "thumbnail": "http://mlb-s1-p.mlstatic.com/979518-MLB43167815570_082020-I.jpg",
-                "accepts_mercadopago": true,
-                "installments": {
-                    "quantity": 12,
-                    "amount": 232.63,
-                    "rate": 13.99,
-                    "currency_id": "BRL"
-                },
-                "address": {
-                    "state_id": "BR-SP",
-                    "state_name": "São Paulo",
-                    "city_id": "BR-SP-44",
-                    "city_name": "São Paulo"
-                },
-                "shipping": {
-                    "free_shipping": true,
-                    "mode": "me2",
-                    "tags": [
-                        "self_service_in",
-                        "mandatory_free_shipping"
-                    ],
-                    "logistic_type": "xd_drop_off",
-                    "store_pick_up": false
-                },
-                "seller_address": {
-                    "id": "",
-                    "comment": "",
-                    "address_line": "",
-                    "zip_code": "",
-                    "country": {
-                        "id": "BR",
-                        "name": "Brasil"
-                    },
-                    "state": {
-                        "id": "BR-SP",
-                        "name": "São Paulo"
-                    },
-                    "city": {
-                        "id": "BR-SP-44",
-                        "name": "São Paulo"
-                    },
-                    "latitude": "",
-                    "longitude": ""
-                },
-                "attributes": [
-                    {
-                        "value_name": "Sony",
-                        "values": [
-                            {
-                                "id": "995",
-                                "name": "Sony",
-                                "struct": null,
-                                "source": 7092
-                            }
-                        ],
-                        "attribute_group_id": "OTHERS",
-                        "id": "BRAND",
-                        "name": "Marca",
-                        "value_id": "995",
-                        "value_struct": null,
-                        "attribute_group_name": "Outros",
-                        "source": 7092
-                    },
-                    {
-                        "value_id": "2230284",
-                        "value_name": "Novo",
-                        "values": [
-                            {
-                                "id": "2230284",
-                                "name": "Novo",
-                                "struct": null,
-                                "source": 7092
-                            }
-                        ],
-                        "source": 7092,
-                        "id": "ITEM_CONDITION",
-                        "name": "Condição do item",
-                        "value_struct": null,
-                        "attribute_group_id": "OTHERS",
-                        "attribute_group_name": "Outros"
-                    },
-                    {
-                        "name": "Linha",
-                        "value_id": null,
-                        "value_name": "PlayStation Vr",
-                        "source": 3376461333454861,
-                        "id": "LINE",
-                        "value_struct": null,
-                        "values": [
-                            {
-                                "id": null,
-                                "name": "PlayStation Vr",
-                                "struct": null,
-                                "source": 3376461333454861
-                            }
-                        ],
-                        "attribute_group_id": "OTHERS",
-                        "attribute_group_name": "Outros"
-                    },
-                    {
-                        "id": "MODEL",
-                        "name": "Modelo",
-                        "value_id": null,
-                        "value_name": "CUH-ZVR2",
-                        "value_struct": null,
-                        "attribute_group_id": "OTHERS",
-                        "attribute_group_name": "Outros",
-                        "source": 7092,
-                        "values": [
-                            {
-                                "struct": null,
-                                "source": 7092,
-                                "id": null,
-                                "name": "CUH-ZVR2"
-                            }
-                        ]
-                    },
-                    {
-                        "id": "SUBMODEL",
-                        "value_id": null,
-                        "value_struct": null,
-                        "attribute_group_id": "OTHERS",
-                        "source": 3376461333454861,
-                        "name": "Sub modelo",
-                        "value_name": "CHU-ZVR2",
-                        "values": [
-                            {
-                                "id": null,
-                                "name": "CHU-ZVR2",
-                                "struct": null,
-                                "source": 3376461333454861
-                            }
-                        ],
-                        "attribute_group_name": "Outros"
-                    }
-                ],
-                "original_price": null,
-                "category_id": "MLB11172",
-                "official_store_id": null,
-                "domain_id": "MLB-GAME_CONSOLES",
-                "catalog_product_id": null,
-                "tags": [
-                    "extended_warranty_eligible",
-                    "good_quality_picture",
-                    "good_quality_thumbnail",
-                    "brand_verified",
-                    "immediate_payment",
-                    "cart_eligible",
-                    "shipping_guaranteed"
-                ]
-            },
-            {
-                "id": "MLB1348646897",
-                "site_id": "MLB",
-                "title": "Console Ps4 Playstation 4 500gb Slim Lacrado Original E Nf-e",
-                "seller": {
-                    "id": 97995353,
-                    "permalink": "http://perfil.mercadolivre.com.br/TOPCELL+E-SHOP",
-                    "registration_date": "2006-09-08T20:01:09.000-04:00",
-                    "car_dealer": false,
-                    "real_estate_agency": false,
-                    "tags": [
-                        "normal",
-                        "eshop",
-                        "mshops",
-                        "messages_as_seller",
-                        "messages_as_buyer"
-                    ],
-                    "eshop": {
-                        "nick_name": "TOPCELL E-SHOP",
-                        "eshop_rubro": null,
-                        "eshop_id": 289830,
-                        "eshop_locations": [],
-                        "site_id": "MLB",
-                        "eshop_logo_url": "http://resources.mlstatic.com/eshops/97995353vcbb228.png",
-                        "eshop_status_id": 1,
-                        "seller": 97995353,
-                        "eshop_experience": 0
-                    },
-                    "seller_reputation": {
-                        "transactions": {
-                            "total": 14136,
-                            "canceled": 949,
-                            "period": "historic",
-                            "ratings": {
-                                "negative": 0.02,
-                                "positive": 0.97,
-                                "neutral": 0.01
-                            },
-                            "completed": 13187
-                        },
-                        "power_seller_status": "platinum",
-                        "metrics": {
-                            "claims": {
-                                "rate": 0.0172,
-                                "value": 38,
-                                "period": "3 months"
-                            },
-                            "delayed_handling_time": {
-                                "rate": 0,
-                                "value": 0,
-                                "period": "3 months"
-                            },
-                            "sales": {
-                                "period": "3 months",
-                                "completed": 1996
-                            },
-                            "cancellations": {
-                                "rate": 0.0036,
-                                "value": 8,
-                                "period": "3 months"
-                            }
-                        },
-                        "level_id": "5_green"
-                    }
-                },
-                "price": 2698,
-                "prices": {
-                    "id": "MLB1348646897",
-                    "prices": [
-                        {
-                            "id": "a5520599-5767-40d1-b0d8-5ee79efa5938",
-                            "type": "standard",
-                            "conditions": {
-                                "context_restrictions": [],
-                                "start_time": null,
-                                "end_time": null,
-                                "eligible": true
-                            },
-                            "amount": 2698,
-                            "regular_amount": null,
-                            "currency_id": "BRL",
-                            "exchange_rate_context": "DEFAULT",
-                            "metadata": {},
-                            "last_updated": "2020-09-16T17:27:15Z"
-                        }
-                    ],
-                    "presentation": {
-                        "display_currency": "BRL"
-                    },
-                    "payment_method_prices": []
-                },
-                "sale_price": null,
-                "currency_id": "BRL",
-                "available_quantity": 1,
-                "sold_quantity": 50,
-                "buying_mode": "buy_it_now",
-                "listing_type_id": "gold_pro",
-                "stop_time": "2039-10-19T04:00:00.000Z",
-                "condition": "new",
-                "permalink": "https://produto.mercadolivre.com.br/MLB-1348646897-console-ps4-playstation-4-500gb-slim-lacrado-original-e-nf-e-_JM",
-                "thumbnail": "http://mlb-s2-p.mlstatic.com/795294-MLB43146958611_082020-I.jpg",
-                "accepts_mercadopago": true,
-                "installments": {
-                    "quantity": 12,
-                    "amount": 224.83,
-                    "rate": 0,
-                    "currency_id": "BRL"
-                },
-                "address": {
-                    "state_id": "BR-SP",
-                    "state_name": "São Paulo",
-                    "city_id": "BR-SP-44",
-                    "city_name": "São Paulo"
-                },
-                "shipping": {
-                    "free_shipping": true,
-                    "mode": "me2",
-                    "tags": [
-                        "self_service_out",
-                        "mandatory_free_shipping"
-                    ],
-                    "logistic_type": "cross_docking",
-                    "store_pick_up": false
-                },
-                "seller_address": {
-                    "id": "",
-                    "comment": "",
-                    "address_line": "",
-                    "zip_code": "",
-                    "country": {
-                        "id": "BR",
-                        "name": "Brasil"
-                    },
-                    "state": {
-                        "id": "BR-SP",
-                        "name": "São Paulo"
-                    },
-                    "city": {
-                        "id": "BR-SP-44",
-                        "name": "São Paulo"
-                    },
-                    "latitude": "",
-                    "longitude": ""
-                },
-                "attributes": [
-                    {
-                        "value_id": "995",
-                        "value_struct": null,
-                        "id": "BRAND",
-                        "name": "Marca",
-                        "value_name": "Sony",
-                        "values": [
-                            {
-                                "id": "995",
-                                "name": "Sony",
-                                "struct": null,
-                                "source": 6587939990796619
-                            }
-                        ],
-                        "attribute_group_id": "OTHERS",
-                        "attribute_group_name": "Outros",
-                        "source": 6587939990796619
-                    },
-                    {
-                        "source": 8342579661593500,
-                        "value_struct": null,
-                        "name": "Condição do item",
-                        "value_id": "2230284",
-                        "value_name": "Novo",
-                        "values": [
-                            {
-                                "id": "2230284",
-                                "name": "Novo",
-                                "struct": null,
-                                "source": 8342579661593500
-                            }
-                        ],
-                        "attribute_group_id": "OTHERS",
-                        "attribute_group_name": "Outros",
-                        "id": "ITEM_CONDITION"
-                    },
-                    {
-                        "name": "Linha",
-                        "value_name": "PlayStation",
-                        "value_struct": null,
-                        "source": 6587939990796619,
-                        "id": "LINE",
-                        "value_id": "312177",
-                        "values": [
-                            {
-                                "id": "312177",
-                                "name": "PlayStation",
-                                "struct": null,
-                                "source": 6587939990796619
-                            }
-                        ],
-                        "attribute_group_id": "OTHERS",
-                        "attribute_group_name": "Outros"
-                    },
-                    {
-                        "name": "Modelo",
-                        "value_id": "316312",
-                        "value_struct": null,
-                        "source": 6587939990796619,
-                        "id": "MODEL",
-                        "value_name": "PlayStation 4",
-                        "values": [
-                            {
-                                "struct": null,
-                                "source": 6587939990796619,
-                                "id": "316312",
-                                "name": "PlayStation 4"
-                            }
-                        ],
-                        "attribute_group_id": "OTHERS",
-                        "attribute_group_name": "Outros"
-                    },
-                    {
-                        "id": "SUBMODEL",
-                        "name": "Sub modelo",
-                        "value_id": "480797",
-                        "value_name": "Slim",
-                        "value_struct": null,
-                        "attribute_group_name": "Outros",
-                        "values": [
-                            {
-                                "id": "480797",
-                                "name": "Slim",
-                                "struct": null,
-                                "source": 6587939990796619
-                            }
-                        ],
-                        "attribute_group_id": "OTHERS",
-                        "source": 6587939990796619
-                    },
-                    {
-                        "value_name": "2.1 kg",
-                        "value_struct": {
-                            "number": 2.1,
-                            "unit": "kg"
-                        },
-                        "values": [
-                            {
-                                "struct": {
-                                    "number": 2.1,
-                                    "unit": "kg"
-                                },
-                                "source": 6587939990796619,
-                                "id": "1068904",
-                                "name": "2.1 kg"
-                            }
-                        ],
-                        "attribute_group_id": "OTHERS",
-                        "source": 6587939990796619,
-                        "id": "WEIGHT",
-                        "name": "Peso",
-                        "value_id": "1068904",
-                        "attribute_group_name": "Outros"
-                    }
-                ],
-                "differential_pricing": {
-                    "id": 33580182
-                },
-                "original_price": null,
-                "category_id": "MLB11172",
-                "official_store_id": null,
-                "domain_id": "MLB-GAME_CONSOLES",
-                "catalog_product_id": "MLB6454377",
-                "tags": [
-                    "brand_verified",
-                    "extended_warranty_eligible",
-                    "good_quality_picture",
-                    "good_quality_thumbnail",
-                    "immediate_payment",
-                    "cart_eligible",
-                    "shipping_guaranteed"
-                ]
-            },
-            {
-                "id": "MLB1509845425",
-                "site_id": "MLB",
-                "title": "Playstation 4 Slim 1 Tb Gta V Death Stranding Last Of Us Ps4",
-                "seller": {
-                    "id": 151582790,
-                    "permalink": "http://perfil.mercadolivre.com.br/VIVA+GAMES",
-                    "registration_date": "2013-12-29T13:40:49.000-04:00",
-                    "car_dealer": false,
-                    "real_estate_agency": false,
-                    "tags": [
-                        "normal",
-                        "eshop",
-                        "mshops",
-                        "credits_profile",
-                        "messages_as_seller",
-                        "messages_as_buyer"
-                    ],
-                    "eshop": {
-                        "nick_name": "VIVA GAMES",
-                        "eshop_rubro": null,
-                        "eshop_id": 246821,
-                        "eshop_locations": [],
-                        "site_id": "MLB",
-                        "eshop_logo_url": "http://resources.mlstatic.com/eshops/151582790v19a470.png",
-                        "eshop_status_id": 2,
-                        "seller": 151582790,
-                        "eshop_experience": 0
-                    },
-                    "seller_reputation": {
-                        "transactions": {
-                            "total": 4819,
-                            "canceled": 214,
-                            "period": "historic",
-                            "ratings": {
-                                "negative": 0,
-                                "positive": 0.99,
-                                "neutral": 0.01
-                            },
-                            "completed": 4605
-                        },
-                        "power_seller_status": "gold",
-                        "metrics": {
-                            "claims": {
-                                "rate": 0.0124,
-                                "value": 6,
-                                "period": "3 months"
-                            },
-                            "delayed_handling_time": {
-                                "rate": 0.0047,
-                                "value": 2,
-                                "period": "3 months"
-                            },
-                            "sales": {
-                                "period": "3 months",
-                                "completed": 443
-                            },
-                            "cancellations": {
-                                "rate": 0,
-                                "value": 0,
-                                "period": "3 months"
-                            }
-                        },
-                        "level_id": "5_green"
-                    }
-                },
-                "price": 3099,
-                "prices": {
-                    "id": "MLB1509845425",
-                    "prices": [
-                        {
-                            "id": "b2836e35-c4f1-4f51-972f-d836335c44ee",
-                            "type": "standard",
-                            "conditions": {
-                                "context_restrictions": [],
-                                "start_time": null,
-                                "end_time": null,
-                                "eligible": true
-                            },
-                            "amount": 3099,
-                            "regular_amount": null,
-                            "currency_id": "BRL",
-                            "exchange_rate_context": "DEFAULT",
-                            "metadata": {},
-                            "last_updated": "2020-09-05T21:33:54Z"
-                        }
-                    ],
-                    "presentation": {
-                        "display_currency": "BRL"
-                    },
-                    "payment_method_prices": []
-                },
-                "sale_price": null,
-                "currency_id": "BRL",
-                "available_quantity": 1,
-                "sold_quantity": 5,
-                "buying_mode": "buy_it_now",
-                "listing_type_id": "gold_pro",
-                "stop_time": "2040-04-24T04:00:00.000Z",
-                "condition": "new",
-                "permalink": "https://produto.mercadolivre.com.br/MLB-1509845425-playstation-4-slim-1-tb-gta-v-death-stranding-last-of-us-ps4-_JM",
-                "thumbnail": "http://mlb-s2-p.mlstatic.com/699153-MLB41589763324_042020-I.jpg",
-                "accepts_mercadopago": true,
-                "installments": {
-                    "quantity": 12,
-                    "amount": 258.25,
-                    "rate": 0,
-                    "currency_id": "BRL"
-                },
-                "address": {
-                    "state_id": "BR-SP",
-                    "state_name": "São Paulo",
-                    "city_id": "BR-SP-44",
-                    "city_name": "São Paulo"
-                },
-                "shipping": {
-                    "free_shipping": true,
-                    "mode": "me2",
-                    "tags": [
-                        "self_service_in",
-                        "mandatory_free_shipping"
-                    ],
-                    "logistic_type": "xd_drop_off",
-                    "store_pick_up": false
-                },
-                "seller_address": {
-                    "id": "",
-                    "comment": "",
-                    "address_line": "",
-                    "zip_code": "",
-                    "country": {
-                        "id": "BR",
-                        "name": "Brasil"
-                    },
-                    "state": {
-                        "id": "BR-SP",
-                        "name": "São Paulo"
-                    },
-                    "city": {
-                        "id": "BR-SP-44",
-                        "name": "São Paulo"
-                    },
-                    "latitude": "",
-                    "longitude": ""
-                },
-                "attributes": [
-                    {
-                        "value_id": "7295140",
-                        "value_struct": null,
-                        "attribute_group_id": "OTHERS",
-                        "source": 1505,
-                        "id": "ALPHANUMERIC_MODEL",
-                        "name": "Modelo alfanumérico",
-                        "value_name": "CUH-22",
-                        "values": [
-                            {
-                                "name": "CUH-22",
-                                "struct": null,
-                                "source": 1505,
-                                "id": "7295140"
-                            }
-                        ],
-                        "attribute_group_name": "Outros"
-                    },
-                    {
-                        "value_id": "995",
-                        "value_struct": null,
-                        "values": [
-                            {
-                                "id": "995",
-                                "name": "Sony",
-                                "struct": null,
-                                "source": 1505
-                            }
-                        ],
-                        "attribute_group_name": "Outros",
-                        "source": 1505,
-                        "id": "BRAND",
-                        "name": "Marca",
-                        "value_name": "Sony",
-                        "attribute_group_id": "OTHERS"
-                    },
-                    {
-                        "value_struct": null,
-                        "values": [
-                            {
-                                "struct": null,
-                                "source": 7092,
-                                "id": "2230284",
-                                "name": "Novo"
-                            }
-                        ],
-                        "attribute_group_name": "Outros",
-                        "name": "Condição do item",
-                        "value_id": "2230284",
-                        "value_name": "Novo",
-                        "id": "ITEM_CONDITION",
-                        "attribute_group_id": "OTHERS",
-                        "source": 7092
-                    },
-                    {
-                        "attribute_group_name": "Outros",
-                        "id": "LINE",
-                        "name": "Linha",
-                        "value_id": "312177",
-                        "values": [
-                            {
-                                "id": "312177",
-                                "name": "PlayStation",
-                                "struct": null,
-                                "source": 1505
-                            }
-                        ],
-                        "attribute_group_id": "OTHERS",
-                        "value_name": "PlayStation",
-                        "value_struct": null,
-                        "source": 1505
-                    },
-                    {
-                        "id": "MODEL",
-                        "value_struct": null,
-                        "values": [
-                            {
-                                "id": "316312",
-                                "name": "PlayStation 4",
-                                "struct": null,
-                                "source": 1505
-                            }
-                        ],
-                        "attribute_group_id": "OTHERS",
-                        "source": 1505,
-                        "name": "Modelo",
-                        "value_id": "316312",
-                        "value_name": "PlayStation 4",
-                        "attribute_group_name": "Outros"
-                    },
-                    {
-                        "id": "SUBMODEL",
-                        "value_name": "Slim",
-                        "value_struct": null,
-                        "attribute_group_id": "OTHERS",
-                        "attribute_group_name": "Outros",
-                        "name": "Sub modelo",
-                        "value_id": "480797",
-                        "values": [
-                            {
-                                "id": "480797",
-                                "name": "Slim",
-                                "struct": null,
-                                "source": 1505
-                            }
-                        ],
-                        "source": 1505
-                    },
-                    {
-                        "value_name": "2 kg",
-                        "value_struct": {
-                            "number": 2,
-                            "unit": "kg"
-                        },
-                        "values": [
-                            {
-                                "id": "999652",
-                                "name": "2 kg",
-                                "struct": {
-                                    "number": 2,
-                                    "unit": "kg"
-                                },
-                                "source": 1505
-                            }
-                        ],
-                        "attribute_group_id": "OTHERS",
-                        "attribute_group_name": "Outros",
-                        "value_id": "999652",
-                        "name": "Peso",
-                        "source": 1505,
-                        "id": "WEIGHT"
-                    }
-                ],
-                "differential_pricing": {
-                    "id": 33580182
-                },
-                "original_price": null,
-                "category_id": "MLB11172",
-                "official_store_id": null,
-                "domain_id": "MLB-GAME_CONSOLES",
-                "catalog_product_id": "MLB15567694",
-                "tags": [
-                    "good_quality_thumbnail",
-                    "loyalty_discount_eligible",
-                    "catalog_listing_eligible",
-                    "good_quality_picture",
-                    "immediate_payment",
-                    "cart_eligible",
-                    "shipping_guaranteed"
-                ]
-            },
-            {
-                "id": "MLB1625797567",
-                "site_id": "MLB",
-                "title": "Console Ps4 Playstation 4 500gb Slim Com Fifa 19 Lacrado",
-                "seller": {
-                    "id": 97995353,
-                    "permalink": "http://perfil.mercadolivre.com.br/TOPCELL+E-SHOP",
-                    "registration_date": "2006-09-08T20:01:09.000-04:00",
-                    "car_dealer": false,
-                    "real_estate_agency": false,
-                    "tags": [
-                        "normal",
-                        "eshop",
-                        "mshops",
-                        "messages_as_seller",
-                        "messages_as_buyer"
-                    ],
-                    "eshop": {
-                        "nick_name": "TOPCELL E-SHOP",
-                        "eshop_rubro": null,
-                        "eshop_id": 289830,
-                        "eshop_locations": [],
-                        "site_id": "MLB",
-                        "eshop_logo_url": "http://resources.mlstatic.com/eshops/97995353vcbb228.png",
-                        "eshop_status_id": 1,
-                        "seller": 97995353,
-                        "eshop_experience": 0
-                    },
-                    "seller_reputation": {
-                        "transactions": {
-                            "total": 14136,
-                            "canceled": 949,
-                            "period": "historic",
-                            "ratings": {
-                                "negative": 0.02,
-                                "positive": 0.97,
-                                "neutral": 0.01
-                            },
-                            "completed": 13187
-                        },
-                        "power_seller_status": "platinum",
-                        "metrics": {
-                            "claims": {
-                                "rate": 0.0172,
-                                "value": 38,
-                                "period": "3 months"
-                            },
-                            "delayed_handling_time": {
-                                "rate": 0,
-                                "value": 0,
-                                "period": "3 months"
-                            },
-                            "sales": {
-                                "period": "3 months",
-                                "completed": 1996
-                            },
-                            "cancellations": {
-                                "rate": 0.0036,
-                                "value": 8,
-                                "period": "3 months"
-                            }
-                        },
-                        "level_id": "5_green"
-                    }
-                },
-                "price": 2798,
-                "prices": {
-                    "id": "MLB1625797567",
-                    "prices": [
-                        {
-                            "id": "d0edc97d-e4bf-497a-995f-83c16f28b1aa",
-                            "type": "standard",
-                            "conditions": {
-                                "context_restrictions": [],
-                                "start_time": null,
-                                "end_time": null,
-                                "eligible": true
-                            },
-                            "amount": 2798,
-                            "regular_amount": null,
-                            "currency_id": "BRL",
-                            "exchange_rate_context": "DEFAULT",
-                            "metadata": {},
-                            "last_updated": "2020-09-26T02:15:48Z"
-                        }
-                    ],
-                    "presentation": {
-                        "display_currency": "BRL"
-                    },
-                    "payment_method_prices": []
-                },
-                "sale_price": null,
-                "currency_id": "BRL",
-                "available_quantity": 1,
-                "sold_quantity": 2,
-                "buying_mode": "buy_it_now",
-                "listing_type_id": "gold_pro",
-                "stop_time": "2040-08-07T04:00:00.000Z",
-                "condition": "new",
-                "permalink": "https://produto.mercadolivre.com.br/MLB-1625797567-console-ps4-playstation-4-500gb-slim-com-fifa-19-lacrado-_JM",
-                "thumbnail": "http://mlb-s2-p.mlstatic.com/972864-MLB43147440338_082020-I.jpg",
-                "accepts_mercadopago": true,
-                "installments": {
-                    "quantity": 12,
-                    "amount": 233.17,
-                    "rate": 0,
-                    "currency_id": "BRL"
-                },
-                "address": {
-                    "state_id": "BR-SP",
-                    "state_name": "São Paulo",
-                    "city_id": "BR-SP-44",
-                    "city_name": "São Paulo"
-                },
-                "shipping": {
-                    "free_shipping": true,
-                    "mode": "me2",
-                    "tags": [
-                        "self_service_out",
-                        "mandatory_free_shipping"
-                    ],
-                    "logistic_type": "cross_docking",
-                    "store_pick_up": false
-                },
-                "seller_address": {
-                    "id": "",
-                    "comment": "",
-                    "address_line": "",
-                    "zip_code": "",
-                    "country": {
-                        "id": "BR",
-                        "name": "Brasil"
-                    },
-                    "state": {
-                        "id": "BR-SP",
-                        "name": "São Paulo"
-                    },
-                    "city": {
-                        "id": "BR-SP-44",
-                        "name": "São Paulo"
-                    },
-                    "latitude": "",
-                    "longitude": ""
-                },
-                "attributes": [
-                    {
-                        "value_id": "995",
-                        "value_struct": null,
-                        "attribute_group_name": "Outros",
-                        "values": [
-                            {
-                                "id": "995",
-                                "name": "Sony",
-                                "struct": null,
-                                "source": 2860837171021627
-                            }
-                        ],
-                        "attribute_group_id": "OTHERS",
-                        "source": 2860837171021627,
-                        "id": "BRAND",
-                        "name": "Marca",
-                        "value_name": "Sony"
-                    },
-                    {
-                        "id": "ITEM_CONDITION",
-                        "value_name": "Novo",
-                        "attribute_group_id": "OTHERS",
-                        "attribute_group_name": "Outros",
-                        "source": 2860837171021627,
-                        "name": "Condição do item",
-                        "value_id": "2230284",
-                        "value_struct": null,
-                        "values": [
-                            {
-                                "id": "2230284",
-                                "name": "Novo",
-                                "struct": null,
-                                "source": 2860837171021627
-                            }
-                        ]
-                    },
-                    {
-                        "values": [
-                            {
-                                "id": "312177",
-                                "name": "PlayStation",
-                                "struct": null,
-                                "source": 2860837171021627
-                            }
-                        ],
-                        "attribute_group_name": "Outros",
-                        "value_id": "312177",
-                        "value_name": "PlayStation",
-                        "value_struct": null,
-                        "source": 2860837171021627,
-                        "id": "LINE",
-                        "name": "Linha",
-                        "attribute_group_id": "OTHERS"
-                    },
-                    {
-                        "attribute_group_name": "Outros",
-                        "source": 2860837171021627,
-                        "id": "MODEL",
-                        "value_id": "316312",
-                        "value_name": "PlayStation 4",
-                        "attribute_group_id": "OTHERS",
-                        "name": "Modelo",
-                        "value_struct": null,
-                        "values": [
-                            {
-                                "source": 2860837171021627,
-                                "id": "316312",
-                                "name": "PlayStation 4",
-                                "struct": null
-                            }
-                        ]
-                    },
-                    {
-                        "attribute_group_name": "Outros",
-                        "source": 2860837171021627,
-                        "name": "Sub modelo",
-                        "value_name": "Slim",
-                        "value_struct": null,
-                        "attribute_group_id": "OTHERS",
-                        "id": "SUBMODEL",
-                        "value_id": "480797",
-                        "values": [
-                            {
-                                "id": "480797",
-                                "name": "Slim",
-                                "struct": null,
-                                "source": 2860837171021627
-                            }
-                        ]
-                    }
-                ],
-                "differential_pricing": {
-                    "id": 33580182
-                },
-                "original_price": null,
-                "category_id": "MLB11172",
-                "official_store_id": null,
-                "domain_id": "MLB-GAME_CONSOLES",
-                "catalog_product_id": "MLB13876218",
-                "tags": [
-                    "good_quality_thumbnail",
-                    "brand_verified",
-                    "extended_warranty_eligible",
-                    "good_quality_picture",
-                    "immediate_payment",
-                    "cart_eligible",
-                    "shipping_guaranteed"
-                ]
+              "id": "28d438e2-84ae-402a-af09-200e50935209",
+              "type": "standard",
+              "conditions": {
+                "context_restrictions": [],
+                "start_time": null,
+                "end_time": null,
+                "eligible": true
+              },
+              "amount": 2449,
+              "regular_amount": null,
+              "currency_id": "BRL",
+              "exchange_rate_context": "DEFAULT",
+              "metadata": {},
+              "last_updated": "2020-10-03T13:01:46Z"
             }
-        ],
-        "secondary_results": [],
-        "related_results": [],
-        "sort": {
-            "id": "relevance",
-            "name": "More relevant"
+          ],
+          "presentation": {
+            "display_currency": "BRL"
+          },
+          "payment_method_prices": []
         },
-        "available_sorts": [
-            {
-                "id": "price_asc",
-                "name": "Lower price"
-            },
-            {
-                "id": "price_desc",
-                "name": "Higher price"
-            }
+        "sale_price": null,
+        "currency_id": "BRL",
+        "available_quantity": 1,
+        "sold_quantity": 3,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "gold_special",
+        "stop_time": "2040-04-27T04:00:00.000Z",
+        "condition": "new",
+        "permalink": "https://produto.mercadolivre.com.br/MLB-1512055832-playstation-vr-mega-pack-nacional-sony-ps4-5-jogos-oferta-_JM",
+        "thumbnail": "http://mlb-s1-p.mlstatic.com/979518-MLB43167815570_082020-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+          "quantity": 12,
+          "amount": 232.63,
+          "rate": 13.99,
+          "currency_id": "BRL"
+        },
+        "address": {
+          "state_id": "BR-SP",
+          "state_name": "São Paulo",
+          "city_id": "BR-SP-44",
+          "city_name": "São Paulo"
+        },
+        "shipping": {
+          "free_shipping": true,
+          "mode": "me2",
+          "tags": ["self_service_in", "mandatory_free_shipping"],
+          "logistic_type": "xd_drop_off",
+          "store_pick_up": false
+        },
+        "seller_address": {
+          "id": "",
+          "comment": "",
+          "address_line": "",
+          "zip_code": "",
+          "country": {
+            "id": "BR",
+            "name": "Brasil"
+          },
+          "state": {
+            "id": "BR-SP",
+            "name": "São Paulo"
+          },
+          "city": {
+            "id": "BR-SP-44",
+            "name": "São Paulo"
+          },
+          "latitude": "",
+          "longitude": ""
+        },
+        "attributes": [
+          {
+            "value_name": "Sony",
+            "values": [
+              {
+                "id": "995",
+                "name": "Sony",
+                "struct": null,
+                "source": 7092
+              }
+            ],
+            "attribute_group_id": "OTHERS",
+            "id": "BRAND",
+            "name": "Marca",
+            "value_id": "995",
+            "value_struct": null,
+            "attribute_group_name": "Outros",
+            "source": 7092
+          },
+          {
+            "value_id": "2230284",
+            "value_name": "Novo",
+            "values": [
+              {
+                "id": "2230284",
+                "name": "Novo",
+                "struct": null,
+                "source": 7092
+              }
+            ],
+            "source": 7092,
+            "id": "ITEM_CONDITION",
+            "name": "Condição do item",
+            "value_struct": null,
+            "attribute_group_id": "OTHERS",
+            "attribute_group_name": "Outros"
+          },
+          {
+            "name": "Linha",
+            "value_id": null,
+            "value_name": "PlayStation Vr",
+            "source": 3376461333454861,
+            "id": "LINE",
+            "value_struct": null,
+            "values": [
+              {
+                "id": null,
+                "name": "PlayStation Vr",
+                "struct": null,
+                "source": 3376461333454861
+              }
+            ],
+            "attribute_group_id": "OTHERS",
+            "attribute_group_name": "Outros"
+          },
+          {
+            "id": "MODEL",
+            "name": "Modelo",
+            "value_id": null,
+            "value_name": "CUH-ZVR2",
+            "value_struct": null,
+            "attribute_group_id": "OTHERS",
+            "attribute_group_name": "Outros",
+            "source": 7092,
+            "values": [
+              {
+                "struct": null,
+                "source": 7092,
+                "id": null,
+                "name": "CUH-ZVR2"
+              }
+            ]
+          },
+          {
+            "id": "SUBMODEL",
+            "value_id": null,
+            "value_struct": null,
+            "attribute_group_id": "OTHERS",
+            "source": 3376461333454861,
+            "name": "Sub modelo",
+            "value_name": "CHU-ZVR2",
+            "values": [
+              {
+                "id": null,
+                "name": "CHU-ZVR2",
+                "struct": null,
+                "source": 3376461333454861
+              }
+            ],
+            "attribute_group_name": "Outros"
+          }
         ],
-        "filters": [
-            {
-                "id": "category",
-                "name": "Categories",
-                "type": "text",
-                "values": [
-                    {
-                        "id": "MLB11172",
-                        "name": "Consoles",
-                        "path_from_root": [
-                            {
-                                "id": "MLB1144",
-                                "name": "Games"
-                            },
-                            {
-                                "id": "MLB11172",
-                                "name": "Consoles"
-                            }
-                        ]
-                    }
-                ]
-            }
-        ],
-        "available_filters": [
-            {
-                "id": "official_store",
-                "name": "Tiendas oficiales",
-                "type": "text",
-                "values": [
-                    {
-                        "id": "all",
-                        "name": "Todas las tiendas oficiales",
-                        "results": 25
-                    },
-                    {
-                        "id": "866",
-                        "name": "Olist",
-                        "results": 10
-                    },
-                    {
-                        "id": "2168",
-                        "name": "Top Store",
-                        "results": 4
-                    }
-                ]
-            },
-            {
-                "id": "state",
-                "name": "Location",
-                "type": "text",
-                "values": [
-                    {
-                        "id": "TUxCUFNBT085N2E4",
-                        "name": "São Paulo",
-                        "results": 1594
-                    },
-                    {
-                        "id": "TUxCUFJJT08xODM5Zg",
-                        "name": "Rio de Janeiro",
-                        "results": 287
-                    },
-                    {
-                        "id": "TUxCUFBBUkExODBlZA",
-                        "name": "Paraná",
-                        "results": 276
-                    },
-                    {
-                        "id": "TUxCUE1JTlMxNTAyZA",
-                        "name": "Minas Gerais",
-                        "results": 270
-                    },
-                    {
-                        "id": "TUxCUERJU0wxMWJhYg",
-                        "name": "Distrito Federal",
-                        "results": 175
-                    },
-                    {
-                        "id": "TUxCUFJJT0xkYzM0",
-                        "name": "Rio Grande do Sul",
-                        "results": 95
-                    },
-                    {
-                        "id": "TUxCUFNBTkE5Nzc4",
-                        "name": "Santa Catarina",
-                        "results": 85
-                    },
-                    {
-                        "id": "TUxCUEJBSEFlYmEx",
-                        "name": "Bahia",
-                        "results": 43
-                    },
-                    {
-                        "id": "TUxCUEdPSVMxNzVmMw",
-                        "name": "Goiás",
-                        "results": 41
-                    },
-                    {
-                        "id": "TUxCUFBFUk8xZmZj",
-                        "name": "Pernambuco",
-                        "results": 32
-                    },
-                    {
-                        "id": "TUxCUENFQUExNzkyZQ",
-                        "name": "Ceará",
-                        "results": 30
-                    },
-                    {
-                        "id": "TUxCUEVTUE8xN2Y3NA",
-                        "name": "Espírito Santo",
-                        "results": 28
-                    },
-                    {
-                        "id": "TUxCUFBBUkE0M2I4",
-                        "name": "Paraíba",
-                        "results": 19
-                    },
-                    {
-                        "id": "TUxCUE1BVE9jZDY0",
-                        "name": "Mato Grosso",
-                        "results": 15
-                    },
-                    {
-                        "id": "TUxCUE1BVEw4ZTc",
-                        "name": "Mato Grosso do Sul",
-                        "results": 15
-                    },
-                    {
-                        "id": "TUxCUE1BUk81MWVi",
-                        "name": "Maranhão",
-                        "results": 12
-                    },
-                    {
-                        "id": "TUxCUEFNQVMxNzgwYQ",
-                        "name": "Amazonas",
-                        "results": 12
-                    },
-                    {
-                        "id": "TUxCUFNFUkUxMmZlOQ",
-                        "name": "Sergipe",
-                        "results": 12
-                    },
-                    {
-                        "id": "TUxCUFJJT0VkMmNj",
-                        "name": "Rio Grande do Norte",
-                        "results": 9
-                    },
-                    {
-                        "id": "TUxCUFBBUkFiY2Uw",
-                        "name": "Pará",
-                        "results": 8
-                    },
-                    {
-                        "id": "TUxCUFJPTkExMmU4YQ",
-                        "name": "Rondônia",
-                        "results": 8
-                    },
-                    {
-                        "id": "TUxCUFRPQ1NjZDBm",
-                        "name": "Tocantins",
-                        "results": 8
-                    },
-                    {
-                        "id": "TUxCUEFMQVNmZjUw",
-                        "name": "Alagoas",
-                        "results": 7
-                    },
-                    {
-                        "id": "TUxCUFBJQUk1NDVj",
-                        "name": "Piauí",
-                        "results": 6
-                    },
-                    {
-                        "id": "TUxCUEFNQUExNTZlNg",
-                        "name": "Amapá",
-                        "results": 3
-                    },
-                    {
-                        "id": "TUxCUEFDUkVkNTU",
-                        "name": "Acre",
-                        "results": 2
-                    }
-                ]
-            },
-            {
-                "id": "price",
-                "name": "Precio",
-                "type": "range",
-                "values": [
-                    {
-                        "id": "*-1000.0",
-                        "name": "Up to R$1.000",
-                        "results": 667
-                    },
-                    {
-                        "id": "1000.0-2000.0",
-                        "name": "R$1.000 to R$2.000",
-                        "results": 999
-                    },
-                    {
-                        "id": "2000.0-*",
-                        "name": "More than R$2.000",
-                        "results": 1572
-                    }
-                ]
-            },
-            {
-                "id": "accepts_mercadopago",
-                "name": "MercadoPago filter",
-                "type": "boolean",
-                "values": [
-                    {
-                        "id": "yes",
-                        "name": "With MercadoPago",
-                        "results": 3238
-                    }
-                ]
-            },
-            {
-                "id": "installments",
-                "name": "Pago",
-                "type": "text",
-                "values": [
-                    {
-                        "id": "no_interest",
-                        "name": "Sin interés",
-                        "results": 1418
-                    }
-                ]
-            },
-            {
-                "id": "shipping",
-                "name": "Envío",
-                "type": "text",
-                "values": [
-                    {
-                        "id": "mercadoenvios",
-                        "name": "Mercado Envíos",
-                        "results": 2909
-                    }
-                ]
-            },
-            {
-                "id": "power_seller",
-                "name": "Seller quality filter",
-                "type": "boolean",
-                "values": [
-                    {
-                        "id": "yes",
-                        "name": "Best sellers",
-                        "results": 319
-                    }
-                ]
-            },
-            {
-                "id": "since",
-                "name": "Auction start date filter",
-                "type": "text",
-                "values": [
-                    {
-                        "id": "today",
-                        "name": "Publicados hoy",
-                        "results": 96
-                    }
-                ]
-            },
-            {
-                "id": "until",
-                "name": "Auction stop filter",
-                "type": "text",
-                "values": [
-                    {
-                        "id": "today",
-                        "name": "Ending today",
-                        "results": 8
-                    }
-                ]
-            },
-            {
-                "id": "has_video",
-                "name": "Video publications filter",
-                "type": "boolean",
-                "values": [
-                    {
-                        "id": "yes",
-                        "name": "Publications with video",
-                        "results": 129
-                    }
-                ]
-            },
-            {
-                "id": "has_pictures",
-                "name": "Items with images filter",
-                "type": "boolean",
-                "values": [
-                    {
-                        "id": "yes",
-                        "name": "With pictures",
-                        "results": 3226
-                    }
-                ]
-            },
-            {
-                "id": "shipping_cost",
-                "name": "Costo de envío",
-                "type": "text",
-                "values": [
-                    {
-                        "id": "free",
-                        "name": "Gratis",
-                        "results": 1685
-                    }
-                ]
-            },
-            {
-                "id": "shipping_quarantine",
-                "name": "Envío",
-                "type": "text",
-                "values": [
-                    {
-                        "id": "guaranteed_delivery",
-                        "name": "Envío con normalidad",
-                        "results": 159
-                    }
-                ]
-            },
-            {
-                "id": "BRAND",
-                "name": "Marca",
-                "type": "STRING",
-                "values": [
-                    {
-                        "id": "995",
-                        "name": "Sony",
-                        "results": 2891
-                    },
-                    {
-                        "id": "15770",
-                        "name": "Microsoft",
-                        "results": 6
-                    },
-                    {
-                        "id": "9565",
-                        "name": "Nintendo",
-                        "results": 3
-                    },
-                    {
-                        "id": "4426772",
-                        "name": "EA",
-                        "results": 2
-                    },
-                    {
-                        "id": "9551",
-                        "name": "Sega",
-                        "results": 1
-                    },
-                    {
-                        "id": "923428",
-                        "name": "Thrustmaster",
-                        "results": 1
-                    },
-                    {
-                        "id": "923418",
-                        "name": "Xbox",
-                        "results": 1
-                    },
-                    {
-                        "id": "6379185",
-                        "name": "Best Choice",
-                        "results": 1
-                    },
-                    {
-                        "id": "5802006",
-                        "name": "Iluminata Games",
-                        "results": 1
-                    },
-                    {
-                        "id": "5248639",
-                        "name": "JSX",
-                        "results": 1
-                    },
-                    {
-                        "id": "41895",
-                        "name": "Luxor",
-                        "results": 1
-                    },
-                    {
-                        "id": "3673975",
-                        "name": "Adore",
-                        "results": 1
-                    },
-                    {
-                        "id": "3032681",
-                        "name": "Game",
-                        "results": 1
-                    },
-                    {
-                        "id": "2783404",
-                        "name": "Mayflash",
-                        "results": 1
-                    },
-                    {
-                        "id": "2373520",
-                        "name": "GTA",
-                        "results": 1
-                    },
-                    {
-                        "id": "2258965",
-                        "name": "CyberDreams",
-                        "results": 1
-                    },
-                    {
-                        "id": "1229703",
-                        "name": "MagiDeal",
-                        "results": 1
-                    }
-                ]
-            },
-            {
-                "id": "CAPACITY",
-                "name": "Capacidade",
-                "type": "range",
-                "values": [
-                    {
-                        "id": "(*-1000GB)",
-                        "name": "Menos de 1.000 GB",
-                        "results": 1049
-                    },
-                    {
-                        "id": "[1000GB-*)",
-                        "name": "1.000 GB ou mais",
-                        "results": 1554
-                    }
-                ]
-            },
-            {
-                "id": "ITEM_CONDITION",
-                "name": "Condição",
-                "type": "STRING",
-                "values": [
-                    {
-                        "id": "2230581",
-                        "name": "Usado",
-                        "results": 2336
-                    },
-                    {
-                        "id": "2230284",
-                        "name": "Novo",
-                        "results": 878
-                    },
-                    {
-                        "id": "2230582",
-                        "name": "Recondicionado",
-                        "results": 2
-                    }
-                ]
-            },
-            {
-                "id": "SUBMODEL",
-                "name": "Sub modelo",
-                "type": "STRING",
-                "values": [
-                    {
-                        "id": "480805",
-                        "name": "Pro",
-                        "results": 1125
-                    },
-                    {
-                        "id": "480797",
-                        "name": "Slim",
-                        "results": 915
-                    },
-                    {
-                        "id": "480800",
-                        "name": "Fat",
-                        "results": 124
-                    },
-                    {
-                        "id": "480802",
-                        "name": "Super Slim",
-                        "results": 14
-                    },
-                    {
-                        "id": "5171926",
-                        "name": "S",
-                        "results": 4
-                    },
-                    {
-                        "id": "480796",
-                        "name": "Arcade",
-                        "results": 3
-                    },
-                    {
-                        "id": "7834207",
-                        "name": "Street",
-                        "results": 1
-                    },
-                    {
-                        "id": "7804257",
-                        "name": "E",
-                        "results": 1
-                    },
-                    {
-                        "id": "480803",
-                        "name": "SP",
-                        "results": 1
-                    },
-                    {
-                        "id": "480799",
-                        "name": "Lite",
-                        "results": 1
-                    },
-                    {
-                        "id": "3815375",
-                        "name": "PS one",
-                        "results": 1
-                    }
-                ]
-            }
+        "original_price": null,
+        "category_id": "MLB11172",
+        "official_store_id": null,
+        "domain_id": "MLB-GAME_CONSOLES",
+        "catalog_product_id": null,
+        "tags": [
+          "extended_warranty_eligible",
+          "good_quality_picture",
+          "good_quality_thumbnail",
+          "brand_verified",
+          "immediate_payment",
+          "cart_eligible",
+          "shipping_guaranteed"
         ]
-    }
+      },
+      {
+        "id": "MLB1348646897",
+        "site_id": "MLB",
+        "title": "Console Ps4 Playstation 4 500gb Slim Lacrado Original E Nf-e",
+        "seller": {
+          "id": 97995353,
+          "permalink": "http://perfil.mercadolivre.com.br/TOPCELL+E-SHOP",
+          "registration_date": "2006-09-08T20:01:09.000-04:00",
+          "car_dealer": false,
+          "real_estate_agency": false,
+          "tags": [
+            "normal",
+            "eshop",
+            "mshops",
+            "messages_as_seller",
+            "messages_as_buyer"
+          ],
+          "eshop": {
+            "nick_name": "TOPCELL E-SHOP",
+            "eshop_rubro": null,
+            "eshop_id": 289830,
+            "eshop_locations": [],
+            "site_id": "MLB",
+            "eshop_logo_url": "http://resources.mlstatic.com/eshops/97995353vcbb228.png",
+            "eshop_status_id": 1,
+            "seller": 97995353,
+            "eshop_experience": 0
+          },
+          "seller_reputation": {
+            "transactions": {
+              "total": 14136,
+              "canceled": 949,
+              "period": "historic",
+              "ratings": {
+                "negative": 0.02,
+                "positive": 0.97,
+                "neutral": 0.01
+              },
+              "completed": 13187
+            },
+            "power_seller_status": "platinum",
+            "metrics": {
+              "claims": {
+                "rate": 0.0172,
+                "value": 38,
+                "period": "3 months"
+              },
+              "delayed_handling_time": {
+                "rate": 0,
+                "value": 0,
+                "period": "3 months"
+              },
+              "sales": {
+                "period": "3 months",
+                "completed": 1996
+              },
+              "cancellations": {
+                "rate": 0.0036,
+                "value": 8,
+                "period": "3 months"
+              }
+            },
+            "level_id": "5_green"
+          }
+        },
+        "price": 2698,
+        "prices": {
+          "id": "MLB1348646897",
+          "prices": [
+            {
+              "id": "a5520599-5767-40d1-b0d8-5ee79efa5938",
+              "type": "standard",
+              "conditions": {
+                "context_restrictions": [],
+                "start_time": null,
+                "end_time": null,
+                "eligible": true
+              },
+              "amount": 2698,
+              "regular_amount": null,
+              "currency_id": "BRL",
+              "exchange_rate_context": "DEFAULT",
+              "metadata": {},
+              "last_updated": "2020-09-16T17:27:15Z"
+            }
+          ],
+          "presentation": {
+            "display_currency": "BRL"
+          },
+          "payment_method_prices": []
+        },
+        "sale_price": null,
+        "currency_id": "BRL",
+        "available_quantity": 1,
+        "sold_quantity": 50,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "gold_pro",
+        "stop_time": "2039-10-19T04:00:00.000Z",
+        "condition": "new",
+        "permalink": "https://produto.mercadolivre.com.br/MLB-1348646897-console-ps4-playstation-4-500gb-slim-lacrado-original-e-nf-e-_JM",
+        "thumbnail": "http://mlb-s2-p.mlstatic.com/795294-MLB43146958611_082020-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+          "quantity": 12,
+          "amount": 224.83,
+          "rate": 0,
+          "currency_id": "BRL"
+        },
+        "address": {
+          "state_id": "BR-SP",
+          "state_name": "São Paulo",
+          "city_id": "BR-SP-44",
+          "city_name": "São Paulo"
+        },
+        "shipping": {
+          "free_shipping": true,
+          "mode": "me2",
+          "tags": ["self_service_out", "mandatory_free_shipping"],
+          "logistic_type": "cross_docking",
+          "store_pick_up": false
+        },
+        "seller_address": {
+          "id": "",
+          "comment": "",
+          "address_line": "",
+          "zip_code": "",
+          "country": {
+            "id": "BR",
+            "name": "Brasil"
+          },
+          "state": {
+            "id": "BR-SP",
+            "name": "São Paulo"
+          },
+          "city": {
+            "id": "BR-SP-44",
+            "name": "São Paulo"
+          },
+          "latitude": "",
+          "longitude": ""
+        },
+        "attributes": [
+          {
+            "value_id": "995",
+            "value_struct": null,
+            "id": "BRAND",
+            "name": "Marca",
+            "value_name": "Sony",
+            "values": [
+              {
+                "id": "995",
+                "name": "Sony",
+                "struct": null,
+                "source": 6587939990796619
+              }
+            ],
+            "attribute_group_id": "OTHERS",
+            "attribute_group_name": "Outros",
+            "source": 6587939990796619
+          },
+          {
+            "source": 8342579661593500,
+            "value_struct": null,
+            "name": "Condição do item",
+            "value_id": "2230284",
+            "value_name": "Novo",
+            "values": [
+              {
+                "id": "2230284",
+                "name": "Novo",
+                "struct": null,
+                "source": 8342579661593500
+              }
+            ],
+            "attribute_group_id": "OTHERS",
+            "attribute_group_name": "Outros",
+            "id": "ITEM_CONDITION"
+          },
+          {
+            "name": "Linha",
+            "value_name": "PlayStation",
+            "value_struct": null,
+            "source": 6587939990796619,
+            "id": "LINE",
+            "value_id": "312177",
+            "values": [
+              {
+                "id": "312177",
+                "name": "PlayStation",
+                "struct": null,
+                "source": 6587939990796619
+              }
+            ],
+            "attribute_group_id": "OTHERS",
+            "attribute_group_name": "Outros"
+          },
+          {
+            "name": "Modelo",
+            "value_id": "316312",
+            "value_struct": null,
+            "source": 6587939990796619,
+            "id": "MODEL",
+            "value_name": "PlayStation 4",
+            "values": [
+              {
+                "struct": null,
+                "source": 6587939990796619,
+                "id": "316312",
+                "name": "PlayStation 4"
+              }
+            ],
+            "attribute_group_id": "OTHERS",
+            "attribute_group_name": "Outros"
+          },
+          {
+            "id": "SUBMODEL",
+            "name": "Sub modelo",
+            "value_id": "480797",
+            "value_name": "Slim",
+            "value_struct": null,
+            "attribute_group_name": "Outros",
+            "values": [
+              {
+                "id": "480797",
+                "name": "Slim",
+                "struct": null,
+                "source": 6587939990796619
+              }
+            ],
+            "attribute_group_id": "OTHERS",
+            "source": 6587939990796619
+          },
+          {
+            "value_name": "2.1 kg",
+            "value_struct": {
+              "number": 2.1,
+              "unit": "kg"
+            },
+            "values": [
+              {
+                "struct": {
+                  "number": 2.1,
+                  "unit": "kg"
+                },
+                "source": 6587939990796619,
+                "id": "1068904",
+                "name": "2.1 kg"
+              }
+            ],
+            "attribute_group_id": "OTHERS",
+            "source": 6587939990796619,
+            "id": "WEIGHT",
+            "name": "Peso",
+            "value_id": "1068904",
+            "attribute_group_name": "Outros"
+          }
+        ],
+        "differential_pricing": {
+          "id": 33580182
+        },
+        "original_price": null,
+        "category_id": "MLB11172",
+        "official_store_id": null,
+        "domain_id": "MLB-GAME_CONSOLES",
+        "catalog_product_id": "MLB6454377",
+        "tags": [
+          "brand_verified",
+          "extended_warranty_eligible",
+          "good_quality_picture",
+          "good_quality_thumbnail",
+          "immediate_payment",
+          "cart_eligible",
+          "shipping_guaranteed"
+        ]
+      },
+      {
+        "id": "MLB1509845425",
+        "site_id": "MLB",
+        "title": "Playstation 4 Slim 1 Tb Gta V Death Stranding Last Of Us Ps4",
+        "seller": {
+          "id": 151582790,
+          "permalink": "http://perfil.mercadolivre.com.br/VIVA+GAMES",
+          "registration_date": "2013-12-29T13:40:49.000-04:00",
+          "car_dealer": false,
+          "real_estate_agency": false,
+          "tags": [
+            "normal",
+            "eshop",
+            "mshops",
+            "credits_profile",
+            "messages_as_seller",
+            "messages_as_buyer"
+          ],
+          "eshop": {
+            "nick_name": "VIVA GAMES",
+            "eshop_rubro": null,
+            "eshop_id": 246821,
+            "eshop_locations": [],
+            "site_id": "MLB",
+            "eshop_logo_url": "http://resources.mlstatic.com/eshops/151582790v19a470.png",
+            "eshop_status_id": 2,
+            "seller": 151582790,
+            "eshop_experience": 0
+          },
+          "seller_reputation": {
+            "transactions": {
+              "total": 4819,
+              "canceled": 214,
+              "period": "historic",
+              "ratings": {
+                "negative": 0,
+                "positive": 0.99,
+                "neutral": 0.01
+              },
+              "completed": 4605
+            },
+            "power_seller_status": "gold",
+            "metrics": {
+              "claims": {
+                "rate": 0.0124,
+                "value": 6,
+                "period": "3 months"
+              },
+              "delayed_handling_time": {
+                "rate": 0.0047,
+                "value": 2,
+                "period": "3 months"
+              },
+              "sales": {
+                "period": "3 months",
+                "completed": 443
+              },
+              "cancellations": {
+                "rate": 0,
+                "value": 0,
+                "period": "3 months"
+              }
+            },
+            "level_id": "5_green"
+          }
+        },
+        "price": 3099,
+        "prices": {
+          "id": "MLB1509845425",
+          "prices": [
+            {
+              "id": "b2836e35-c4f1-4f51-972f-d836335c44ee",
+              "type": "standard",
+              "conditions": {
+                "context_restrictions": [],
+                "start_time": null,
+                "end_time": null,
+                "eligible": true
+              },
+              "amount": 3099,
+              "regular_amount": null,
+              "currency_id": "BRL",
+              "exchange_rate_context": "DEFAULT",
+              "metadata": {},
+              "last_updated": "2020-09-05T21:33:54Z"
+            }
+          ],
+          "presentation": {
+            "display_currency": "BRL"
+          },
+          "payment_method_prices": []
+        },
+        "sale_price": null,
+        "currency_id": "BRL",
+        "available_quantity": 1,
+        "sold_quantity": 5,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "gold_pro",
+        "stop_time": "2040-04-24T04:00:00.000Z",
+        "condition": "new",
+        "permalink": "https://produto.mercadolivre.com.br/MLB-1509845425-playstation-4-slim-1-tb-gta-v-death-stranding-last-of-us-ps4-_JM",
+        "thumbnail": "http://mlb-s2-p.mlstatic.com/699153-MLB41589763324_042020-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+          "quantity": 12,
+          "amount": 258.25,
+          "rate": 0,
+          "currency_id": "BRL"
+        },
+        "address": {
+          "state_id": "BR-SP",
+          "state_name": "São Paulo",
+          "city_id": "BR-SP-44",
+          "city_name": "São Paulo"
+        },
+        "shipping": {
+          "free_shipping": true,
+          "mode": "me2",
+          "tags": ["self_service_in", "mandatory_free_shipping"],
+          "logistic_type": "xd_drop_off",
+          "store_pick_up": false
+        },
+        "seller_address": {
+          "id": "",
+          "comment": "",
+          "address_line": "",
+          "zip_code": "",
+          "country": {
+            "id": "BR",
+            "name": "Brasil"
+          },
+          "state": {
+            "id": "BR-SP",
+            "name": "São Paulo"
+          },
+          "city": {
+            "id": "BR-SP-44",
+            "name": "São Paulo"
+          },
+          "latitude": "",
+          "longitude": ""
+        },
+        "attributes": [
+          {
+            "value_id": "7295140",
+            "value_struct": null,
+            "attribute_group_id": "OTHERS",
+            "source": 1505,
+            "id": "ALPHANUMERIC_MODEL",
+            "name": "Modelo alfanumérico",
+            "value_name": "CUH-22",
+            "values": [
+              {
+                "name": "CUH-22",
+                "struct": null,
+                "source": 1505,
+                "id": "7295140"
+              }
+            ],
+            "attribute_group_name": "Outros"
+          },
+          {
+            "value_id": "995",
+            "value_struct": null,
+            "values": [
+              {
+                "id": "995",
+                "name": "Sony",
+                "struct": null,
+                "source": 1505
+              }
+            ],
+            "attribute_group_name": "Outros",
+            "source": 1505,
+            "id": "BRAND",
+            "name": "Marca",
+            "value_name": "Sony",
+            "attribute_group_id": "OTHERS"
+          },
+          {
+            "value_struct": null,
+            "values": [
+              {
+                "struct": null,
+                "source": 7092,
+                "id": "2230284",
+                "name": "Novo"
+              }
+            ],
+            "attribute_group_name": "Outros",
+            "name": "Condição do item",
+            "value_id": "2230284",
+            "value_name": "Novo",
+            "id": "ITEM_CONDITION",
+            "attribute_group_id": "OTHERS",
+            "source": 7092
+          },
+          {
+            "attribute_group_name": "Outros",
+            "id": "LINE",
+            "name": "Linha",
+            "value_id": "312177",
+            "values": [
+              {
+                "id": "312177",
+                "name": "PlayStation",
+                "struct": null,
+                "source": 1505
+              }
+            ],
+            "attribute_group_id": "OTHERS",
+            "value_name": "PlayStation",
+            "value_struct": null,
+            "source": 1505
+          },
+          {
+            "id": "MODEL",
+            "value_struct": null,
+            "values": [
+              {
+                "id": "316312",
+                "name": "PlayStation 4",
+                "struct": null,
+                "source": 1505
+              }
+            ],
+            "attribute_group_id": "OTHERS",
+            "source": 1505,
+            "name": "Modelo",
+            "value_id": "316312",
+            "value_name": "PlayStation 4",
+            "attribute_group_name": "Outros"
+          },
+          {
+            "id": "SUBMODEL",
+            "value_name": "Slim",
+            "value_struct": null,
+            "attribute_group_id": "OTHERS",
+            "attribute_group_name": "Outros",
+            "name": "Sub modelo",
+            "value_id": "480797",
+            "values": [
+              {
+                "id": "480797",
+                "name": "Slim",
+                "struct": null,
+                "source": 1505
+              }
+            ],
+            "source": 1505
+          },
+          {
+            "value_name": "2 kg",
+            "value_struct": {
+              "number": 2,
+              "unit": "kg"
+            },
+            "values": [
+              {
+                "id": "999652",
+                "name": "2 kg",
+                "struct": {
+                  "number": 2,
+                  "unit": "kg"
+                },
+                "source": 1505
+              }
+            ],
+            "attribute_group_id": "OTHERS",
+            "attribute_group_name": "Outros",
+            "value_id": "999652",
+            "name": "Peso",
+            "source": 1505,
+            "id": "WEIGHT"
+          }
+        ],
+        "differential_pricing": {
+          "id": 33580182
+        },
+        "original_price": null,
+        "category_id": "MLB11172",
+        "official_store_id": null,
+        "domain_id": "MLB-GAME_CONSOLES",
+        "catalog_product_id": "MLB15567694",
+        "tags": [
+          "good_quality_thumbnail",
+          "loyalty_discount_eligible",
+          "catalog_listing_eligible",
+          "good_quality_picture",
+          "immediate_payment",
+          "cart_eligible",
+          "shipping_guaranteed"
+        ]
+      },
+      {
+        "id": "MLB1625797567",
+        "site_id": "MLB",
+        "title": "Console Ps4 Playstation 4 500gb Slim Com Fifa 19 Lacrado",
+        "seller": {
+          "id": 97995353,
+          "permalink": "http://perfil.mercadolivre.com.br/TOPCELL+E-SHOP",
+          "registration_date": "2006-09-08T20:01:09.000-04:00",
+          "car_dealer": false,
+          "real_estate_agency": false,
+          "tags": [
+            "normal",
+            "eshop",
+            "mshops",
+            "messages_as_seller",
+            "messages_as_buyer"
+          ],
+          "eshop": {
+            "nick_name": "TOPCELL E-SHOP",
+            "eshop_rubro": null,
+            "eshop_id": 289830,
+            "eshop_locations": [],
+            "site_id": "MLB",
+            "eshop_logo_url": "http://resources.mlstatic.com/eshops/97995353vcbb228.png",
+            "eshop_status_id": 1,
+            "seller": 97995353,
+            "eshop_experience": 0
+          },
+          "seller_reputation": {
+            "transactions": {
+              "total": 14136,
+              "canceled": 949,
+              "period": "historic",
+              "ratings": {
+                "negative": 0.02,
+                "positive": 0.97,
+                "neutral": 0.01
+              },
+              "completed": 13187
+            },
+            "power_seller_status": "platinum",
+            "metrics": {
+              "claims": {
+                "rate": 0.0172,
+                "value": 38,
+                "period": "3 months"
+              },
+              "delayed_handling_time": {
+                "rate": 0,
+                "value": 0,
+                "period": "3 months"
+              },
+              "sales": {
+                "period": "3 months",
+                "completed": 1996
+              },
+              "cancellations": {
+                "rate": 0.0036,
+                "value": 8,
+                "period": "3 months"
+              }
+            },
+            "level_id": "5_green"
+          }
+        },
+        "price": 2798,
+        "prices": {
+          "id": "MLB1625797567",
+          "prices": [
+            {
+              "id": "d0edc97d-e4bf-497a-995f-83c16f28b1aa",
+              "type": "standard",
+              "conditions": {
+                "context_restrictions": [],
+                "start_time": null,
+                "end_time": null,
+                "eligible": true
+              },
+              "amount": 2798,
+              "regular_amount": null,
+              "currency_id": "BRL",
+              "exchange_rate_context": "DEFAULT",
+              "metadata": {},
+              "last_updated": "2020-09-26T02:15:48Z"
+            }
+          ],
+          "presentation": {
+            "display_currency": "BRL"
+          },
+          "payment_method_prices": []
+        },
+        "sale_price": null,
+        "currency_id": "BRL",
+        "available_quantity": 1,
+        "sold_quantity": 2,
+        "buying_mode": "buy_it_now",
+        "listing_type_id": "gold_pro",
+        "stop_time": "2040-08-07T04:00:00.000Z",
+        "condition": "new",
+        "permalink": "https://produto.mercadolivre.com.br/MLB-1625797567-console-ps4-playstation-4-500gb-slim-com-fifa-19-lacrado-_JM",
+        "thumbnail": "http://mlb-s2-p.mlstatic.com/972864-MLB43147440338_082020-I.jpg",
+        "accepts_mercadopago": true,
+        "installments": {
+          "quantity": 12,
+          "amount": 233.17,
+          "rate": 0,
+          "currency_id": "BRL"
+        },
+        "address": {
+          "state_id": "BR-SP",
+          "state_name": "São Paulo",
+          "city_id": "BR-SP-44",
+          "city_name": "São Paulo"
+        },
+        "shipping": {
+          "free_shipping": true,
+          "mode": "me2",
+          "tags": ["self_service_out", "mandatory_free_shipping"],
+          "logistic_type": "cross_docking",
+          "store_pick_up": false
+        },
+        "seller_address": {
+          "id": "",
+          "comment": "",
+          "address_line": "",
+          "zip_code": "",
+          "country": {
+            "id": "BR",
+            "name": "Brasil"
+          },
+          "state": {
+            "id": "BR-SP",
+            "name": "São Paulo"
+          },
+          "city": {
+            "id": "BR-SP-44",
+            "name": "São Paulo"
+          },
+          "latitude": "",
+          "longitude": ""
+        },
+        "attributes": [
+          {
+            "value_id": "995",
+            "value_struct": null,
+            "attribute_group_name": "Outros",
+            "values": [
+              {
+                "id": "995",
+                "name": "Sony",
+                "struct": null,
+                "source": 2860837171021627
+              }
+            ],
+            "attribute_group_id": "OTHERS",
+            "source": 2860837171021627,
+            "id": "BRAND",
+            "name": "Marca",
+            "value_name": "Sony"
+          },
+          {
+            "id": "ITEM_CONDITION",
+            "value_name": "Novo",
+            "attribute_group_id": "OTHERS",
+            "attribute_group_name": "Outros",
+            "source": 2860837171021627,
+            "name": "Condição do item",
+            "value_id": "2230284",
+            "value_struct": null,
+            "values": [
+              {
+                "id": "2230284",
+                "name": "Novo",
+                "struct": null,
+                "source": 2860837171021627
+              }
+            ]
+          },
+          {
+            "values": [
+              {
+                "id": "312177",
+                "name": "PlayStation",
+                "struct": null,
+                "source": 2860837171021627
+              }
+            ],
+            "attribute_group_name": "Outros",
+            "value_id": "312177",
+            "value_name": "PlayStation",
+            "value_struct": null,
+            "source": 2860837171021627,
+            "id": "LINE",
+            "name": "Linha",
+            "attribute_group_id": "OTHERS"
+          },
+          {
+            "attribute_group_name": "Outros",
+            "source": 2860837171021627,
+            "id": "MODEL",
+            "value_id": "316312",
+            "value_name": "PlayStation 4",
+            "attribute_group_id": "OTHERS",
+            "name": "Modelo",
+            "value_struct": null,
+            "values": [
+              {
+                "source": 2860837171021627,
+                "id": "316312",
+                "name": "PlayStation 4",
+                "struct": null
+              }
+            ]
+          },
+          {
+            "attribute_group_name": "Outros",
+            "source": 2860837171021627,
+            "name": "Sub modelo",
+            "value_name": "Slim",
+            "value_struct": null,
+            "attribute_group_id": "OTHERS",
+            "id": "SUBMODEL",
+            "value_id": "480797",
+            "values": [
+              {
+                "id": "480797",
+                "name": "Slim",
+                "struct": null,
+                "source": 2860837171021627
+              }
+            ]
+          }
+        ],
+        "differential_pricing": {
+          "id": 33580182
+        },
+        "original_price": null,
+        "category_id": "MLB11172",
+        "official_store_id": null,
+        "domain_id": "MLB-GAME_CONSOLES",
+        "catalog_product_id": "MLB13876218",
+        "tags": [
+          "good_quality_thumbnail",
+          "brand_verified",
+          "extended_warranty_eligible",
+          "good_quality_picture",
+          "immediate_payment",
+          "cart_eligible",
+          "shipping_guaranteed"
+        ]
+      }
+    ],
+    "secondary_results": [],
+    "related_results": [],
+    "sort": {
+      "id": "relevance",
+      "name": "More relevant"
+    },
+    "available_sorts": [
+      {
+        "id": "price_asc",
+        "name": "Lower price"
+      },
+      {
+        "id": "price_desc",
+        "name": "Higher price"
+      }
+    ],
+    "filters": [
+      {
+        "id": "category",
+        "name": "Categories",
+        "type": "text",
+        "values": [
+          {
+            "id": "MLB11172",
+            "name": "Consoles",
+            "path_from_root": [
+              {
+                "id": "MLB1144",
+                "name": "Games"
+              },
+              {
+                "id": "MLB11172",
+                "name": "Consoles"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "available_filters": [
+      {
+        "id": "official_store",
+        "name": "Tiendas oficiales",
+        "type": "text",
+        "values": [
+          {
+            "id": "all",
+            "name": "Todas las tiendas oficiales",
+            "results": 25
+          },
+          {
+            "id": "866",
+            "name": "Olist",
+            "results": 10
+          },
+          {
+            "id": "2168",
+            "name": "Top Store",
+            "results": 4
+          }
+        ]
+      },
+      {
+        "id": "state",
+        "name": "Location",
+        "type": "text",
+        "values": [
+          {
+            "id": "TUxCUFNBT085N2E4",
+            "name": "São Paulo",
+            "results": 1594
+          },
+          {
+            "id": "TUxCUFJJT08xODM5Zg",
+            "name": "Rio de Janeiro",
+            "results": 287
+          },
+          {
+            "id": "TUxCUFBBUkExODBlZA",
+            "name": "Paraná",
+            "results": 276
+          },
+          {
+            "id": "TUxCUE1JTlMxNTAyZA",
+            "name": "Minas Gerais",
+            "results": 270
+          },
+          {
+            "id": "TUxCUERJU0wxMWJhYg",
+            "name": "Distrito Federal",
+            "results": 175
+          },
+          {
+            "id": "TUxCUFJJT0xkYzM0",
+            "name": "Rio Grande do Sul",
+            "results": 95
+          },
+          {
+            "id": "TUxCUFNBTkE5Nzc4",
+            "name": "Santa Catarina",
+            "results": 85
+          },
+          {
+            "id": "TUxCUEJBSEFlYmEx",
+            "name": "Bahia",
+            "results": 43
+          },
+          {
+            "id": "TUxCUEdPSVMxNzVmMw",
+            "name": "Goiás",
+            "results": 41
+          },
+          {
+            "id": "TUxCUFBFUk8xZmZj",
+            "name": "Pernambuco",
+            "results": 32
+          },
+          {
+            "id": "TUxCUENFQUExNzkyZQ",
+            "name": "Ceará",
+            "results": 30
+          },
+          {
+            "id": "TUxCUEVTUE8xN2Y3NA",
+            "name": "Espírito Santo",
+            "results": 28
+          },
+          {
+            "id": "TUxCUFBBUkE0M2I4",
+            "name": "Paraíba",
+            "results": 19
+          },
+          {
+            "id": "TUxCUE1BVE9jZDY0",
+            "name": "Mato Grosso",
+            "results": 15
+          },
+          {
+            "id": "TUxCUE1BVEw4ZTc",
+            "name": "Mato Grosso do Sul",
+            "results": 15
+          },
+          {
+            "id": "TUxCUE1BUk81MWVi",
+            "name": "Maranhão",
+            "results": 12
+          },
+          {
+            "id": "TUxCUEFNQVMxNzgwYQ",
+            "name": "Amazonas",
+            "results": 12
+          },
+          {
+            "id": "TUxCUFNFUkUxMmZlOQ",
+            "name": "Sergipe",
+            "results": 12
+          },
+          {
+            "id": "TUxCUFJJT0VkMmNj",
+            "name": "Rio Grande do Norte",
+            "results": 9
+          },
+          {
+            "id": "TUxCUFBBUkFiY2Uw",
+            "name": "Pará",
+            "results": 8
+          },
+          {
+            "id": "TUxCUFJPTkExMmU4YQ",
+            "name": "Rondônia",
+            "results": 8
+          },
+          {
+            "id": "TUxCUFRPQ1NjZDBm",
+            "name": "Tocantins",
+            "results": 8
+          },
+          {
+            "id": "TUxCUEFMQVNmZjUw",
+            "name": "Alagoas",
+            "results": 7
+          },
+          {
+            "id": "TUxCUFBJQUk1NDVj",
+            "name": "Piauí",
+            "results": 6
+          },
+          {
+            "id": "TUxCUEFNQUExNTZlNg",
+            "name": "Amapá",
+            "results": 3
+          },
+          {
+            "id": "TUxCUEFDUkVkNTU",
+            "name": "Acre",
+            "results": 2
+          }
+        ]
+      },
+      {
+        "id": "price",
+        "name": "Precio",
+        "type": "range",
+        "values": [
+          {
+            "id": "*-1000.0",
+            "name": "Up to R$1.000",
+            "results": 667
+          },
+          {
+            "id": "1000.0-2000.0",
+            "name": "R$1.000 to R$2.000",
+            "results": 999
+          },
+          {
+            "id": "2000.0-*",
+            "name": "More than R$2.000",
+            "results": 1572
+          }
+        ]
+      },
+      {
+        "id": "accepts_mercadopago",
+        "name": "MercadoPago filter",
+        "type": "boolean",
+        "values": [
+          {
+            "id": "yes",
+            "name": "With MercadoPago",
+            "results": 3238
+          }
+        ]
+      },
+      {
+        "id": "installments",
+        "name": "Pago",
+        "type": "text",
+        "values": [
+          {
+            "id": "no_interest",
+            "name": "Sin interés",
+            "results": 1418
+          }
+        ]
+      },
+      {
+        "id": "shipping",
+        "name": "Envío",
+        "type": "text",
+        "values": [
+          {
+            "id": "mercadoenvios",
+            "name": "Mercado Envíos",
+            "results": 2909
+          }
+        ]
+      },
+      {
+        "id": "power_seller",
+        "name": "Seller quality filter",
+        "type": "boolean",
+        "values": [
+          {
+            "id": "yes",
+            "name": "Best sellers",
+            "results": 319
+          }
+        ]
+      },
+      {
+        "id": "since",
+        "name": "Auction start date filter",
+        "type": "text",
+        "values": [
+          {
+            "id": "today",
+            "name": "Publicados hoy",
+            "results": 96
+          }
+        ]
+      },
+      {
+        "id": "until",
+        "name": "Auction stop filter",
+        "type": "text",
+        "values": [
+          {
+            "id": "today",
+            "name": "Ending today",
+            "results": 8
+          }
+        ]
+      },
+      {
+        "id": "has_video",
+        "name": "Video publications filter",
+        "type": "boolean",
+        "values": [
+          {
+            "id": "yes",
+            "name": "Publications with video",
+            "results": 129
+          }
+        ]
+      },
+      {
+        "id": "has_pictures",
+        "name": "Items with images filter",
+        "type": "boolean",
+        "values": [
+          {
+            "id": "yes",
+            "name": "With pictures",
+            "results": 3226
+          }
+        ]
+      },
+      {
+        "id": "shipping_cost",
+        "name": "Costo de envío",
+        "type": "text",
+        "values": [
+          {
+            "id": "free",
+            "name": "Gratis",
+            "results": 1685
+          }
+        ]
+      },
+      {
+        "id": "shipping_quarantine",
+        "name": "Envío",
+        "type": "text",
+        "values": [
+          {
+            "id": "guaranteed_delivery",
+            "name": "Envío con normalidad",
+            "results": 159
+          }
+        ]
+      },
+      {
+        "id": "BRAND",
+        "name": "Marca",
+        "type": "STRING",
+        "values": [
+          {
+            "id": "995",
+            "name": "Sony",
+            "results": 2891
+          },
+          {
+            "id": "15770",
+            "name": "Microsoft",
+            "results": 6
+          },
+          {
+            "id": "9565",
+            "name": "Nintendo",
+            "results": 3
+          },
+          {
+            "id": "4426772",
+            "name": "EA",
+            "results": 2
+          },
+          {
+            "id": "9551",
+            "name": "Sega",
+            "results": 1
+          },
+          {
+            "id": "923428",
+            "name": "Thrustmaster",
+            "results": 1
+          },
+          {
+            "id": "923418",
+            "name": "Xbox",
+            "results": 1
+          },
+          {
+            "id": "6379185",
+            "name": "Best Choice",
+            "results": 1
+          },
+          {
+            "id": "5802006",
+            "name": "Iluminata Games",
+            "results": 1
+          },
+          {
+            "id": "5248639",
+            "name": "JSX",
+            "results": 1
+          },
+          {
+            "id": "41895",
+            "name": "Luxor",
+            "results": 1
+          },
+          {
+            "id": "3673975",
+            "name": "Adore",
+            "results": 1
+          },
+          {
+            "id": "3032681",
+            "name": "Game",
+            "results": 1
+          },
+          {
+            "id": "2783404",
+            "name": "Mayflash",
+            "results": 1
+          },
+          {
+            "id": "2373520",
+            "name": "GTA",
+            "results": 1
+          },
+          {
+            "id": "2258965",
+            "name": "CyberDreams",
+            "results": 1
+          },
+          {
+            "id": "1229703",
+            "name": "MagiDeal",
+            "results": 1
+          }
+        ]
+      },
+      {
+        "id": "CAPACITY",
+        "name": "Capacidade",
+        "type": "range",
+        "values": [
+          {
+            "id": "(*-1000GB)",
+            "name": "Menos de 1.000 GB",
+            "results": 1049
+          },
+          {
+            "id": "[1000GB-*)",
+            "name": "1.000 GB ou mais",
+            "results": 1554
+          }
+        ]
+      },
+      {
+        "id": "ITEM_CONDITION",
+        "name": "Condição",
+        "type": "STRING",
+        "values": [
+          {
+            "id": "2230581",
+            "name": "Usado",
+            "results": 2336
+          },
+          {
+            "id": "2230284",
+            "name": "Novo",
+            "results": 878
+          },
+          {
+            "id": "2230582",
+            "name": "Recondicionado",
+            "results": 2
+          }
+        ]
+      },
+      {
+        "id": "SUBMODEL",
+        "name": "Sub modelo",
+        "type": "STRING",
+        "values": [
+          {
+            "id": "480805",
+            "name": "Pro",
+            "results": 1125
+          },
+          {
+            "id": "480797",
+            "name": "Slim",
+            "results": 915
+          },
+          {
+            "id": "480800",
+            "name": "Fat",
+            "results": 124
+          },
+          {
+            "id": "480802",
+            "name": "Super Slim",
+            "results": 14
+          },
+          {
+            "id": "5171926",
+            "name": "S",
+            "results": 4
+          },
+          {
+            "id": "480796",
+            "name": "Arcade",
+            "results": 3
+          },
+          {
+            "id": "7834207",
+            "name": "Street",
+            "results": 1
+          },
+          {
+            "id": "7804257",
+            "name": "E",
+            "results": 1
+          },
+          {
+            "id": "480803",
+            "name": "SP",
+            "results": 1
+          },
+          {
+            "id": "480799",
+            "name": "Lite",
+            "results": 1
+          },
+          {
+            "id": "3815375",
+            "name": "PS one",
+            "results": 1
+          }
+        ]
+      }
+    ]
+  }
 }
