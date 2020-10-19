@@ -1,6 +1,6 @@
 # Mercado Livre's Frontend test
 
-[![murilocorreiab](https://circleci.com/gh/murilocorreiab/mercadolivre-frontend-test.svg?style=svg)](https://app.circleci.com/pipelines/github/murilocorreiab/mercadolivre-frontend-test>)
+[![murilocorreiab](https://circleci.com/gh/murilocorreiab/mercadolivre-frontend-test.svg?style=svg)](https://app.circleci.com/pipelines/github/murilocorreiab/mercadolivre-frontend-test)
 
 This repository intends to be an implementation of Mercado Livre's Frontend test that's applied to job applicants. This implementation it's only for study purpuoses.
 
