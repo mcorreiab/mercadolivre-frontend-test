@@ -1,5 +1,7 @@
 # Mercado Livre's Frontend test
 
+[![murilocorreiab](https://circleci.com/gh/murilocorreiab/mercadolivre-frontend-test.svg?style=svg)](https://app.circleci.com/pipelines/github/murilocorreiab/mercadolivre-frontend-test>)
+
 This repository intends to be an implementation of Mercado Livre's Frontend test that's applied to job applicants. This implementation it's only for study purpuoses.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
