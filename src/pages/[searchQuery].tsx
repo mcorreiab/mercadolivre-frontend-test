@@ -4,12 +4,12 @@ import ProductList, {
   ProductListProps,
   ProductInformation,
 } from "../components/ProductList";
-import { getItems } from "../api/items";
+import getItems from "../api/items";
 
 export default function Listing(productListProps: ProductListProps) {
   return (
     <TemplatePage>
-      <ProductList {...productListProps} />
+      <ProductList products={productListProps.products} />
     </TemplatePage>
   );
 }
@@ -29,8 +29,8 @@ export async function getServerSideProps({ params }: Context) {
     const props: ProductInformation = {
       id: item.id,
       thumbnail: item.thumbnail,
-      cityName: item.address.city_name,
-      currencyId: item.currency_id,
+      cityName: item.address.cityName,
+      currencyId: item.currencyId,
       price: item.price,
       title: item.title,
     };

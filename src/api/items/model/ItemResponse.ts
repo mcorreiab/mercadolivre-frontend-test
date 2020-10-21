@@ -1,5 +1,5 @@
-import { ItemResultsResponse } from "./ItemResultsResponse";
+import ItemResultsResponse from "./ItemResultsResponse";
 
-export class ItemResponse {
+export default class ItemResponse {
   results: ItemResultsResponse[];
 }

@@ -1,10 +1,15 @@
-import { AddressResponse } from "./AddressResponse";
+import AddressResponse from "./AddressResponse";
 
-export class ItemResultsResponse {
+export default class ItemResultsResponse {
   id: string;
+
   title: string;
+
   price: number;
+
   address: AddressResponse;
+
   thumbnail: string;
-  currency_id: string;
+
+  currencyId: string;
 }
