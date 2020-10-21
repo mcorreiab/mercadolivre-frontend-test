@@ -22,8 +22,8 @@ const productCard: FunctionComponent<ProductCardProps> = ({
   return (
     <styled.Div>
       <styled.Img src={thumbnail} alt={`${title} image`} />
+      <styled.CityParagraph>{cityName}</styled.CityParagraph>
       <div>
-        <styled.CityParagraph>{cityName}</styled.CityParagraph>
         <p>{title}</p>
         <styled.PriceParagraph>
           {symbol} {price.toFixed(2)}

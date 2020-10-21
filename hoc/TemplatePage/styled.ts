@@ -1,5 +1,4 @@
 import styled from "styled-components";
-import media from "styled-media-query";
 
 export const Div = styled.div`
   display: flex;
@@ -16,12 +15,6 @@ export const Header = styled.header`
     max-width: 900px;
     margin: 0 auto;
   }
-
-  ${media.greaterThan("small")`
-        > * {
-            width: 70%;
-        }
-    `}
 `;
 
 export const Main = styled.main`
@@ -34,10 +27,4 @@ export const Main = styled.main`
     max-width: 900px;
     margin: 0 auto;
   }
-
-  ${media.greaterThan("small")`
-        > * {
-            width: 70%;
-        }
-    `}
 `;

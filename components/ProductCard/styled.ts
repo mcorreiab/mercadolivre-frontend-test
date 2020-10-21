@@ -8,42 +8,53 @@ const customMedia = generateMedia({
 const backgroundColor = "#fff";
 
 export const Div = styled.div`
-  display: flex;
+  display: grid;
+  grid-template-columns: minmax(100px, 125px) 65%;
+  grid-template-rows: 30px 90px;
   background-color: ${backgroundColor};
   font-size: 0.8em;
   padding: 2%;
-  position: relative;
+  column-gap: 5%;
+  grid-template-areas:
+    "image city"
+    "image description";
+
+  ${customMedia.greaterThan("desktop")`
+    grid-template-columns: 15% 55% 20%;
+    grid-template-areas: 
+    "image description city"
+    "image description city";
+  `}
 `;
 
 export const Img = styled.img`
   width: 100%;
   height: auto;
   max-width: 125px;
-  margin-right: 5%;
-
-  ${media.greaterThan("medium")`
-        margin-right: 2%;
-    `}
+  margin-right: 0;
+  align-self: center;
+  grid-area: image;
 `;
 
 export const PriceParagraph = styled.p`
   font-size: 1.5em;
   font-weight: 300;
+  grid-area: description;
 `;
 
 export const CityParagraph = styled.p`
   display: inline-block;
-  margin-bottom: 0;
-  padding: 1.5%;
   background-color: #e8e8e8;
   color: #706e6e;
   font-size: 0.8em;
+  grid-area: city;
+  justify-self: start;
+  padding: 4px;
+  align-self: center;
 
   ${customMedia.greaterThan("desktop")`
-        position: absolute;
-        top: 5vh;
-        right: 5vh;
         font-size: 1em;
         background-color: ${backgroundColor};
+        justify-self: center;
     `}
 `;
