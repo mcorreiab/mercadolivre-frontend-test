@@ -62,6 +62,8 @@ psd
 thumb
 sketch
 
+coverage
+
 ### VisualStudioCode ###
 .vscode/
 !.vscode/settings.json
