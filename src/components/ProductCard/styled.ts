@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import media, { generateMedia } from "styled-media-query";
+import { generateMedia } from "styled-media-query";
 
 const customMedia = generateMedia({
   desktop: "900px",

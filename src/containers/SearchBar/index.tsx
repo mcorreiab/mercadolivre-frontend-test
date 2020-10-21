@@ -1,4 +1,4 @@
-import React, { Component, ChangeEvent, MouseEvent } from "react";
+import React, { Component, ChangeEvent } from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faSearch } from "@fortawesome/free-solid-svg-icons";
 import Link from "next/link";
@@ -9,11 +9,19 @@ export interface State {
 }
 
 class SearchBar extends Component<{}, State> {
-  state = {
-    searchQuery: "",
+  constructor() {
+    super({});
+    this.state = {
+      searchQuery: "",
+    };
+  }
+
+  handleChange = (e: ChangeEvent<HTMLInputElement>) => {
+    this.setState({ searchQuery: e.target.value });
   };
 
   render() {
+    const { searchQuery } = this.state;
     return (
       <styled.Div>
         <styled.Form>
@@ -29,9 +37,9 @@ class SearchBar extends Component<{}, State> {
             type="text"
             placeholder="Digite aqui sua busca"
             onChange={this.handleChange.bind(this)}
-            value={this.state.searchQuery}
+            value={searchQuery}
           />
-          <Link href={`/${this.state.searchQuery}`} data-testid="search button">
+          <Link href={`/${searchQuery}`} data-testid="search button">
             <styled.Button onClick={null}>
               <FontAwesomeIcon icon={faSearch} />
             </styled.Button>
@@ -40,10 +48,6 @@ class SearchBar extends Component<{}, State> {
       </styled.Div>
     );
   }
-
-  handleChange = (e: ChangeEvent<HTMLInputElement>) => {
-    this.setState({ searchQuery: e.target.value });
-  };
 }
 
 export default SearchBar;

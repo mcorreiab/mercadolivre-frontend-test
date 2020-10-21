@@ -8,7 +8,7 @@
     "start": "next start",
     "debug": "NODE_OPTIONS='--inspect' next dev",
     "test": "jest --collectCoverage",
-    "linter": "eslint --ext **/*.ts --ext **/*.tsx",
+    "linter": "eslint --ext src/**/**/*.ts --ext src/**/**/*.tsx",
     "prettier": "prettier --write ."
   },
   "dependencies": {
