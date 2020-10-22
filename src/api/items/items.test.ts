@@ -1,4 +1,4 @@
-import { getItems } from ".";
+import getItems from ".";
 import axios from "../../config/axios";
 import response from "./mockResponse.json";
 

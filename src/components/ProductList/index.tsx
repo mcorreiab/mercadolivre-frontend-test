@@ -25,7 +25,7 @@ const ProductList: FunctionComponent<ProductListProps> = ({
       currencyId={product.currencyId}
       price={product.price}
       thumbnail={product.thumbnail}
-      title={product.thumbnail}
+      title={product.title}
     />
   ));
 
