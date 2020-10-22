@@ -24,10 +24,10 @@ const productCard: FunctionComponent<ProductCardProps> = ({
       <styled.Img src={thumbnail} alt={`${title} image`} />
       <styled.CityParagraph>{cityName}</styled.CityParagraph>
       <div>
-        <p>{title}</p>
         <styled.PriceParagraph>
           {symbol} {price.toFixed(2)}
         </styled.PriceParagraph>
+        <styled.TitleParagraph>{title}</styled.TitleParagraph>
       </div>
     </styled.Div>
   );

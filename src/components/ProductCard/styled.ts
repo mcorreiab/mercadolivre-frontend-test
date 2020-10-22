@@ -9,7 +9,7 @@ const backgroundColor = "#fff";
 
 export const Div = styled.div`
   display: grid;
-  grid-template-columns: minmax(100px, 125px) 65%;
+  grid-template-columns: minmax(100px, 125px) 60%;
   grid-template-rows: 30px 90px;
   background-color: ${backgroundColor};
   font-size: 0.8em;
@@ -23,7 +23,7 @@ export const Div = styled.div`
     grid-template-columns: 15% 55% 20%;
     grid-template-areas: 
     "image description city"
-    "image description city";
+    "image description .";
   `}
 `;
 
@@ -40,6 +40,16 @@ export const PriceParagraph = styled.p`
   font-size: 1.5em;
   font-weight: 300;
   grid-area: description;
+  margin: 0 0 16px;
+  padding: 0;
+
+  ${customMedia.greaterThan("desktop")`
+    margin: 16px 0 32px;
+  `}
+`;
+
+export const TitleParagraph = styled.p`
+  margin: 0;
 `;
 
 export const CityParagraph = styled.p`
@@ -56,5 +66,6 @@ export const CityParagraph = styled.p`
         font-size: 1em;
         background-color: ${backgroundColor};
         justify-self: center;
+        margin-top: 16px;
     `}
 `;
