@@ -23,3 +23,22 @@ test("should be able to type in search bar", async () => {
 
   expect(searchBar.value).toEqual(typedValue);
 });
+
+test("should render mercado livre logo", async () => {
+  render(mainPage());
+
+  const mercadoLivreLogo = await screen.findByAltText("Mercado Livre logo");
+
+  expect(mercadoLivreLogo).toBeTruthy();
+});
+
+test("should render button with search icon", async () => {
+  render(mainPage());
+
+  const searchButton = (await screen.findByAltText("Search Icon")).closest(
+    "button"
+  );
+
+  expect(searchButton).toBeTruthy();
+  expect(searchButton.children).toBeTruthy();
+});

@@ -1,6 +1,8 @@
 import axios from "axios";
-import applyCaseMiddleware from 'axios-case-converter';
+import applyCaseMiddleware from "axios-case-converter";
 
-export default applyCaseMiddleware(axios.create({
-  baseURL: "https://api.mercadolibre.com",
-}));
+export default applyCaseMiddleware(
+  axios.create({
+    baseURL: "https://api.mercadolibre.com",
+  })
+);

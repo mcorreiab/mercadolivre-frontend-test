@@ -8,7 +8,7 @@ export const Div = styled.div`
 `;
 
 export const Header = styled.header`
-  background-color: #fff159;
+  background-color: #ffe600;
 
   > * {
     width: 90%;

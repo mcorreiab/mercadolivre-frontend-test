@@ -1,6 +1,4 @@
 import React, { Component, ChangeEvent } from "react";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faSearch } from "@fortawesome/free-solid-svg-icons";
 import Link from "next/link";
 import * as styled from "./styled";
 
@@ -9,8 +7,8 @@ export interface State {
 }
 
 class SearchBar extends Component<{}, State> {
-  constructor() {
-    super({});
+  constructor(props = {}) {
+    super(props);
     this.state = {
       searchQuery: "",
     };
@@ -27,7 +25,7 @@ class SearchBar extends Component<{}, State> {
         <styled.Form>
           <Link href="/">
             <styled.Figure>
-              <styled.Img
+              <styled.MercadoLivreImg
                 src="/mercadolivre-logo.png"
                 alt="Mercado Livre logo"
               />
@@ -41,7 +39,7 @@ class SearchBar extends Component<{}, State> {
           />
           <Link href={`/${searchQuery}`} data-testid="search button">
             <styled.Button onClick={null}>
-              <FontAwesomeIcon icon={faSearch} />
+              <styled.SearchImage src="/search-icon.png" alt="Search Icon" />
             </styled.Button>
           </Link>
         </styled.Form>
